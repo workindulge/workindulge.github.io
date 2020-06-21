@@ -43,13 +43,6 @@
 
 	  gtag('config', 'UA-169883677-1');
 	</script>
-	
-	<style>
-	myDiv {
-  -ms-transform: rotate(20deg); /* IE 9 */
-  transform: rotate(20deg); /* Standard syntax */
-}
-	</style>
 
     
   </head>
@@ -132,10 +125,10 @@
               <div class="col-md-12" align="center">
                 <!-- <h1>WorkIndulge</h1> 
 				-->
-				<img src="images/workindulge.png" width="45%" alt="workindulge" style="transform: rotate(-10deg);">
-				<p style="transform: rotate(-10deg);">Get Your IT Solution from aspiring young minds at reasonable prices !</p>
+				<img src="images/workindulge.png" width="45%" alt="workindulge">
+				<p>Get Your IT Solution from aspiring young minds at reasonable prices !</p>
                 <!--<p class="">Photo by JESHOOTS.COM on Unsplash</p>-->
-                <div style="transform: rotate(-10deg);">
+                <div>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
                 </div>
               </div>
