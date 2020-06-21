@@ -72,13 +72,13 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    background: black;
-    border-color: black;
+    background: #cc0066;
+    border-color: #cc0066;
     color: #fff; }
     .btn.btn-primary:hover {
       background: #fff;
       border-color: #fff;
-      color: black; }
+      color: #cc0066; }
     .btn.btn-primary.btn-black--hover:hover {
       background: #666666;
       color: #fff; }
@@ -1133,7 +1133,7 @@ h1, h2, h3, h4, h5,
     border-radius: 50%;
     border: 1px solid #ccc; }
   .site-block-27 ul li.active a, .site-block-27 ul li.active span {
-    background: black;
+    background: #cc0066;
     color: #fff;
     border: 1px solid transparent; }
 
@@ -1692,7 +1692,7 @@ h1, h2, h3, h4, h5,
   text-transform: uppercase; }
 
 .section-title {
-  color: black;
+  color: #cc0066;
   font-size: 40px;
   font-weight: 900; }
   @media (max-width: 991.98px) {
@@ -1706,7 +1706,7 @@ h1, h2, h3, h4, h5,
   position: absolute;
   bottom: -10px;
   right: -10px;
-  background: black;
+  background: #cc0066;
   padding: 20px; }
   @media (max-width: 991.98px) {
     .experience {
