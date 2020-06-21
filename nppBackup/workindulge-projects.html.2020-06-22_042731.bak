@@ -125,11 +125,11 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
               <h2 class="font-size-regular"><a href="/projects/mask-detection.html">M-DETECT</a></h2>
-			  <a href="https://workid.herokuapp.com"  target="_blank"><img src="images/projects/mdetect.jpg" class="img-fluid" alt="mask detection"></a>
+			  <a href="https://mdetect.herokuapp.com"  target="_blank"><img src="images/projects/mdetect.jpg" class="img-fluid" alt="mask detection"></a>
               <div class="meta mb-4">
 			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@ID</a> and <a href="https://www.linkedin.com/in/navnish-singh-97717b196/">@Navnish</a>
 			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="https://workid.herokuapp.com"  target="_blank">USE WEBSITE</a></div>
+			  <a href="https://mdetect.herokuapp.com"  target="_blank">USE WEBSITE</a></div>
               <p>M-DETECT: MASK DETECTION SYSTEM INTEGRATED WITH WEBSITE <a href="/projects/mask-detection.html">read more</a></p>
 
             </div> 
@@ -139,11 +139,11 @@
             <div class="h-entry">
 
               <h2 class="font-size-regular"><a href="/projects/covid19-quiz.html">COVID-19 QUIZ</a></h2>
-			  <a href="https://workid.herokuapp.com/quiz"  target="_blank"><img src="images/projects/quiz.jpg" class="img-fluid" alt="covid-19 quiz"></a>
+			  <a href="https://mdetect.herokuapp.com/quiz"  target="_blank"><img src="images/projects/quiz.jpg" class="img-fluid" alt="covid-19 quiz"></a>
               <div class="meta mb-4">
 			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@ID</a> and <a href="https://www.linkedin.com/in/navnish-singh-97717b196/">@Navnish</a>
 			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span>
-			  <a href="https://workid.herokuapp.com/quiz"  target="_blank">TAKE QUIZ</a></div>
+			  <a href="https://mdetect.herokuapp.com/quiz"  target="_blank">TAKE QUIZ</a></div>
               <p>TAKE COVID-19 QUIZ NOW <a href="/projects/covid19-quiz.html">read more</a></p>
               <p><a href="#"></a></p>
 

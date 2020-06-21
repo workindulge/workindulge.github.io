@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>aquabin-workindulge</title>
+    <title>covid19-quiz-WorkIndulge</title>
 	<link rel="shortcut icon" href="images/icon.png" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-	<meta name="keywords" content="workindulge,aquabin,ai boat,self motion planning,iot boat">
-	<meta name="description" content="AI , IOT and Remote Access enabled smart boat which runs on expert system to Detect , Maneuver and Collect floating trash over the river bodies using Computer Vision ,
-	self motion planning , monitoring AI system to Self Train over unseen data , connected with easy to use game like UI dashboard.">        
+	
+	<meta name="keywords" content="covid-19,quiz,corona quiz">
+	<meta name="description" content="Validate your knowledge about covid-19 once agian.
+                 Take quiz ,check your 'CQ' and revise your knowledge and be safe!">        
     
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="../fonts/icomoon/style.css">
@@ -122,28 +122,57 @@
               <div class="col-md-8 mb-4" >    
 			    
 
-			    <h1>AQUABIN<i>(Coming soon)</i></h1> 
-			
+			    <h1>CQ<i>(COVID-19 QUIZ)</i></h1> 
+				<a href="https://mdetect.herokuapp.com/quiz" style="margin:2%"><img src="../images/projects/quiz.jpg" class="img-fluid" alt="covid19 quiz"></a> 
+				<div class="text-center" style="margin-top:2%">
+				  <a href="https://mdetect.herokuapp.com" class="btn btn-primary mr-2 mb-2">TAKE QUIZ NOW</a>
+				</div>				
 				<p class="lead" style="text-align:justify">
-					AI , IOT and Remote Access enabled smart boat which runs on expert system to Detect , Maneuver and Collect floating trash over
-					 the river bodies using Computer Vision , 
-					self motion planning , monitoring AI system to Self Train over unseen data , connected with easy to use game like UI dashboard.			 
+                 After 4 lockdowns , we are standing at the stage of first unlock, In this time when the cases of corona virus is 
+                 incresing and we are going towards unlocking it is important to validate your knowledge about covid-19 once agian.
+                 Take quiz ,check your 'CQ' and revise your knowledge and be safe! 				 
                 </p>
-				<h3>Get in touch with the team for more information!</h3>
-				<a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+				<h3>WANT TO MAKE NEXT QUIZ Get in touch with the team!</h3>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+
 			  </div>
 			  
 			   <div class="col-md-4 text-center" >
-			    <h5>Check out the video</h5>
-				<iframe class="img-fluid" style="" src="https://www.youtube.com/embed/3yoko9SL1_k" frameborder="0" 
-				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			    <h5>INSTRUCTIONS</h5>
+
+				<a href="https://mdetect.herokuapp.com/quiz" style="margin:2%"><img src="../images/projects/quiz.jpg" class="img-fluid" alt="Image"></a> 
 				
 				<div style="text-align:justify" >
 				  <p>
-
+				   1. Go to <a href="https://mdetect.herokuapp.com/quiz">CQ-QUIZ</a> site.<br>
+				   2. Awareness quiz contains 10 questions<br>
+				   3. Each question have one correct answer<br>
+				   4. Your answer will be scored on the basis of your first click on options<br>
+                   5. You cannot go to <b>'NEXT'</b> question until you select right option<br>
 				  </p>				 
 				</div>
 
+			    <h5>PROJECT TEAM</h5>
+				<div class="text-center" >
+				   <img width="100" height="100" alt="ID" src="https://media-exp1.licdn.com/dms/image/C5103AQH7QYoGb-cg6g/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=9zBYnL_P5feNVvb4J6yjWl6CY64NAhr3OPLCPMV2emg">
+				   <div>
+					  <a href="https://www.facebook.com/inderdeep.singh.92798072" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+				    <h6>@Inderdeep</h6> 
+					<p>Student|Quiz Developer</p> 
+
+				   <img width="100" height="100" alt="Navnish" src="https://media-exp1.licdn.com/dms/image/C5603AQGVg93hhWWemA/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=aFGTq-uwe_I73WJFdpB5gTQbMpfUbcKGb6zjccDPKnc
+">
+				   
+				   <div>
+					  <a href="https://www.facebook.com/navnish.singh.129" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/navnish-singh-97717b196/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<h6>@Navnish</h6>
+					<p>Student|Editor</p>
+				</div>				
+				
 		
 			   </div>
 			  

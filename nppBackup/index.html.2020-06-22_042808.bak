@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>workindulge-projects</title>
-	<link rel="shortcut icon" href="images/icon.png" />
-    <meta charset="utf-8">
+    <title>WorkIndulge</title>
+	<link rel="shortcut icon" href="images/icon.png" alt="workindulge"/>
+	
+	<meta charset="utf-8">
+	<meta name="keywords" content="workindulge,work indulge,indulge,work,student community,jobs,mdetect,covid-19 quiz,aquabin,mask detection,mask">
+	<meta name="description" content="WorkIndulge is a community of aspiring young minds to provide cutting edge solutions for the industry ,
+	to undertake turnkey projects and create awareness for the betterment of society.">
+	
+	
+	
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-	<meta name="keywords" content="workindulge,workindulge-projects,projects,mdetect,covid-19 quiz,aquabin,mask detection,mask,covid-19,quiz">
-	<meta name="description" content="WorkIndulge Projects , Workindulge is a community of aspiring young minds to provide cutting edge solutions for the industry ,
-	to undertake turnkey projects and create awareness for the betterment of society">    
+    
     
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
@@ -39,6 +43,14 @@
 
 	  gtag('config', 'UA-169883677-1');
 	</script>
+	
+	<style>
+	myDiv {
+  -ms-transform: rotate(20deg); /* IE 9 */
+  transform: rotate(20deg); /* Standard syntax */
+}
+	</style>
+
     
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -76,26 +88,25 @@
       </div> 
     </div>
 
-
-
     <header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner">
 
       <div class="container">
         <div class="row align-items-center">
           
           <div class="col-6 col-xl-2">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0"><img src="images/workindulge.png" width="200" height="50" alt="WorkIndulge">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0"><img src="images/workindulge.png" width="200" height="50" alt="workindulge">
 			<span class="text-primary"></span> </a></h1>
           </div>
           <div class="col-12 col-md-10 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right" role="navigation">
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="/index.html#home-section" class="nav-link">Home</a></li>
-                <li><a href="/index.html#about-section" class="nav-link">About Us</a></li>
+                <li><a href="#home-section" class="nav-link">Home</a></li>
+                <li><a href="#about-section" class="nav-link">About Us</a></li>
                 <!--<li><a href="#team-section" class="nav-link">Team</a></li>-->
-                <li><a href="/index.html#services-section" class="nav-link">Services</a></li>
-                <li><a href="#" class="nav-link">Projects</a></li>
+                <li><a href="#services-section" class="nav-link">Services</a></li>
+                <li><a href="#project-section" class="nav-link">Projects</a></li>
+                <!--<li><a href="#blog-section" class="nav-link">Blogs</a></li>-->
                 <li><a href="#contact-section" class="nav-link">Contact</a></li>
               </ul>
             </nav>
@@ -109,21 +120,202 @@
       
     </header>
 
+  
+     
+    <div class="site-blocks-cover overlay" style="background-image: url(images/back.jpg);" data-aos="fade">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+                        
+            <div class="row mb-4">
+              <div class="col-md-12" align="center">
+                <!-- <h1>WorkIndulge</h1> 
+				-->
+				<br/><br/><br/>
+				<img src="images/workindulge.png" width="45%" alt="workindulge" style="transform: rotate(-6deg);">
+				<br/><br/>
+				<p style="transform: rotate(-6deg);">Get Your IT Solution from aspiring young minds at reasonable prices !</p>
+                <!--<p class="">Photo by JESHOOTS.COM on Unsplash</p>-->
+				<br/>
+                <div style="transform: rotate(-6deg);">
+                  <a style=" margin-left:6%"href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>  
+
+
+    <div class="site-section" id="about-section">
+      <div class="container">
+        <div class="row align-items-lg-center">
+          <div class="col-md-6 mb-5 mb-lg-0 position-relative">
+            <img src="images/about_1.jpg" class="img-fluid" alt="Image">
+            <div class="experience">
+              <span class="year">Student Community</span>
+              <span class="caption">Always Ready for work!</span>
+            </div>
+          </div>
+          <div class="col-md-5 ml-auto">
+            <h3 class="section-sub-title"></h3>
+            <h2 class="section-title mb-3">About Us</h2>
+            <p class="mb-4" style="text-align:justify">
+			WorkIndulge is a community of aspiring young minds to provide cutting edge solutions for the industry , 
+			to undertake turnkey projects and create awareness for the betterment of society.
+			Our Aim is to provide a platform to bridge the gap between  industry and students by encouraging students to participate and
+			contribute their projects & ideas.
+			</p>
+            <p><!--<a href="#" class="btn btn-primary btn-black--hover">Learn More</a>--></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <section class="site-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12">
+            <h3 class="section-sub-title"></h3>
+            <h2 class="section-title mb-3">How it Works?</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 col-lg-4">
+            <div class=" box-with-humber">
+              <h2 class="text-black">INNOVATE</h2>
+              <p class="mb-4" style="text-align:justify">Students in our community have a passion to make changes in something established, 
+			  especially by introducing new methods, ideas, or products.
+                 			  
+			  </p>
+              <ul class="list-unstyled ul-check primary">
+                <li>Research</li>
+                <li>Innovate</li>
+                <li>Validate</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class=" box-with-humber">
+              <h2 class="text-black">CREATE</h2>
+              <p class="mb-4" style="text-align:justify">Ideas are just idea until you convert them into end products</p>
+              <ul class="list-unstyled ul-check primary">
+                <li>Design</li>
+                <li>Develop</li>
+                <li>Test</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class=" box-with-humber">
+              <h2 class="text-black">DELIVER</h2>
+              <p class="mb-4" style="text-align:justify">Our main objective is to take all innovations to the end users</p>
+              <ul class="list-unstyled ul-check primary">
+                <li>Promote</li>
+                <li>Connect</li>
+                <li>Upgrade</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    
+
+    <section class="site-section border-bottom bg-light" id="services-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12 text-center">
+            <h3 class="section-sub-title"></h3>
+            <h2 class="section-title mb-3">Our Services</h2>
+          </div>
+        </div>
+        <div class="row align-items-stretch" >
+		
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary icon-web" style="font-size:100px"></span></div>
+				<h3>Web Development</h3>
+              </div>
+            </div>
+          </div>
+		  
+		
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary icon-mobile" style="font-size:100px"></span></div>
+				<h3>Mobile Development</h3>
+              </div>
+            </div>
+          </div>
+		  
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary fa fa-robot" style="font-size:100px"></span></div>
+				<h3>Artificial Intelligence</h3>
+              </div>
+            </div>
+          </div>
+		  
+		
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary fa fa-chart-bar" style="font-size:100px"></span></div>
+				<h3>Data Science</h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary fas fa-globe" style="font-size:100px"></span></div>
+				<h3>Embedded Systems and IoT</h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary 	fas fa-code" style="font-size:100px"></span></div>
+				<h3>Technical Support</h3>
+              </div>
+            </div>
+          </div>		  
+
+        </div>
+      </div>
+    </section>
 
 
     <section class="site-section" id="project-section">
       <div class="container">
-        
-		<div class="row mb-5">
+        <div class="row mb-5">
           <div class="col-12 text-center">
-            <h3 class="section-sub-title">Projects</h3>
-            <h2 class="section-title mb-3">Projects@WorkIndulge</h2>
+            <h3 class="section-sub-title"></h3>
+            <h2 class="section-title mb-3">Projects</h2>
           </div>
         </div>
-		        <div class="row">
+
+        <div class="row">
 		
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
+
               <h2 class="font-size-regular"><a href="/projects/mask-detection.html">M-DETECT</a></h2>
 			  <a href="https://workid.herokuapp.com"  target="_blank"><img src="images/projects/mdetect.jpg" class="img-fluid" alt="mask detection"></a>
               <div class="meta mb-4">
@@ -131,22 +323,21 @@
 			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
 			  <a href="https://workid.herokuapp.com"  target="_blank">USE WEBSITE</a></div>
               <p>M-DETECT: MASK DETECTION SYSTEM INTEGRATED WITH WEBSITE <a href="/projects/mask-detection.html">read more</a></p>
-
+		  
             </div> 
           </div>
 		  
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
-
-              <h2 class="font-size-regular"><a href="/projects/covid19-quiz.html">COVID-19 QUIZ</a></h2>
-			  <a href="https://workid.herokuapp.com/quiz"  target="_blank"><img src="images/projects/quiz.jpg" class="img-fluid" alt="covid-19 quiz"></a>
+	  	
+              <h2 class="font-size-regular"><a href="/WORK-INDULGE/projects/covid19-quiz.html">COVID-19 QUIZ</a></h2>
+			  <a href="https://mdetect.herokuapp.com/quiz"  target="_blank"><img src="images/projects/quiz.jpg" class="img-fluid" alt="covid-19 quiz"></a>
               <div class="meta mb-4">
 			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@ID</a> and <a href="https://www.linkedin.com/in/navnish-singh-97717b196/">@Navnish</a>
 			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span>
-			  <a href="https://workid.herokuapp.com/quiz"  target="_blank">TAKE QUIZ</a></div>
+			  <a href="https://mdetect.herokuapp.com/quiz"  target="_blank">TAKE QUIZ</a></div>
               <p>TAKE COVID-19 QUIZ NOW <a href="/projects/covid19-quiz.html">read more</a></p>
               <p><a href="#"></a></p>
-
             </div>
           </div>
 		  
@@ -155,25 +346,27 @@
 		  
               <h2 class="font-size-regular"><a href="/projects/aquabin.html"  target="_blank" >AQUABIN</a></h2>
 				<iframe width="560" height="315" class="img-fluid" src="https://www.youtube.com/embed/3yoko9SL1_k" frameborder="0" 
-
 				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-              <div class="meta mb-4">Team Aquabin <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="/WORK-INDULGE/projects/aquabin.html">CHECK OUT</a></div>
+              <div class="meta mb-4">Team Aquabin<span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="/projects/aquabin.html">CHECK OUT</a></div>
               <p>TRASH COLLECTION BOAT COMING SOON <a href="/projects/aquabin.html">read more</a></p>
 
+              <p><a href="#"></a></p>
             </div> 
           </div>
           
         </div>
-
+		<div class="text-center">
+            <a href="/workindulge-projects.html" class="btn btn-primary mr-2 mb-2">GO TO PROJECTS</a>
+        </div>
       </div>
     </section>
 
 
 
-
-
-  
+   
+    
+	
     <a href="#" class="bg-primary py-5 d-block"  >
       <div class="container">
         <div class="row justify-content-center">
@@ -197,9 +390,9 @@
               <div class="col-md-3 ml-auto ">
                 <h2 class="footer-heading mb-4">Quick Links</h2>
                 <ul class="list-unstyled">
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="#">Testimonials</a></li>
+                  <li><a href="#about-section">About Us</a></li>
+                  <li><a href="#services-section">Services</a></li>
+                  <li><a href="#project-section">Projects</a></li>
                   <li><a href="#contact-section">Contact Us</a></li>
                 </ul>
               </div>
