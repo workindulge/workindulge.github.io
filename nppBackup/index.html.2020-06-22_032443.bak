@@ -138,8 +138,8 @@
 				<p style="transform: rotate(-6deg);">Get Your IT Solution from aspiring young minds at reasonable prices !</p>
                 <!--<p class="">Photo by JESHOOTS.COM on Unsplash</p>-->
 				<br/>
-                <div style="transform: rotate(-6deg);">
-                  <a style=" margin-left:6%"href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+                <div style="transform: rotate(-6deg);margin-left:10%">
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
                 </div>
               </div>
             </div>
