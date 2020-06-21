@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <title>WorkIndulge</title>
-	<link rel="shortcut icon" href="images/newicon1.0.png" alt="workindulge"/>
+	<link rel="shortcut icon" href="images/icon.png" alt="workindulge"/>
 	
 	<meta charset="utf-8">
 	<meta name="keywords" content="workindulge,work indulge,indulge,work,student community,jobs,mdetect,covid-19 quiz,aquabin,mask detection,mask">
@@ -87,7 +87,7 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-xl-2">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0"><img src="images/newlogo1.1.png" alt="workindulge">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0"><img src="images/workindulge.png" alt="workindulge">
 			<span class="text-primary"></span> </a></h1>
           </div>
           <div class="col-12 col-md-10 d-none d-xl-block">
