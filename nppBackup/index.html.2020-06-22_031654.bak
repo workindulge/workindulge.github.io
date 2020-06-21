@@ -132,12 +132,12 @@
               <div class="col-md-12" align="center">
                 <!-- <h1>WorkIndulge</h1> 
 				-->
-				<br/><br/><br/>
+				<br><br><br>
 				<img src="images/workindulge.png" width="45%" alt="workindulge" style="transform: rotate(-6deg);">
-				<br/><br/>
-				<p style="transform: rotate(-6deg);">Get Your IT Solution from aspiring young minds at reasonable prices !</p>
+				<br><br>
+				<h4 style="transform: rotate(-6deg);">Get Your IT Solution from aspiring young minds at reasonable prices !</h4>
                 <!--<p class="">Photo by JESHOOTS.COM on Unsplash</p>-->
-				<br/>
+				<br>
                 <div style="transform: rotate(-6deg);">
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
                 </div>
