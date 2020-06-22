@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>mask-detection-WorkIndulge</title>
-	<link rel="shortcut icon" href="../images/icon.png" />
+    <title>covid19-quiz-WorkIndulge</title>
+	<link rel="shortcut icon" href="images/icon.png" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="shortcut icon" href="images/icon.png" />
+	<meta name="keywords" content="covid-19,quiz,corona quiz">
+	<meta name="description" content="Validate your knowledge about covid-19 once agian.
+                 Take quiz ,check your 'CQ' and revise your knowledge and be safe!">        
     
- 	<meta name="keywords" content="covid-19,mask detection,mdetect,mask,ai mask">
-	<meta name="description" content="Integrated mask detection system M-DETECT to connect with cctv cameras in offices, 
-					schools, tuitions, industries, shops and other places to detect masks and then grant the permission. ">  
-				 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="../fonts/icomoon/style.css">
 
@@ -28,6 +28,7 @@
     <link rel="stylesheet" href="../css/aos.css">
 
     <link rel="stylesheet" href="../css/style.css">
+
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169883677-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -117,44 +118,37 @@
 		  
 		
             <div class="row">              
-              <div class="col-md-8 mb-4" >
-          			  
-			    <h1>M-DETECT (Beta-Lite Version)</h1> 
-				<a href="https://workid.herokuapp.com" style="margin:2%"><img src="../images/projects/mdetect.jpg" class="img-fluid" alt="mask detection"></a>  
+
+              <div class="col-md-8 mb-4" >    
+			    
+
+			    <h1>CQ<i>(COVID-19 QUIZ)</i></h1> 
+				<a href="https://workid.herokuapp.com/quiz" style="margin:2%"><img src="../images/projects/quiz.jpg" class="img-fluid" alt="covid19 quiz"></a> 
 				<div class="text-center" style="margin-top:2%">
-				  <a href="https://workid.herokuapp.com" class="btn btn-primary mr-2 mb-2">GO TO SITE</a>
-				</div>
-				
-				<br>
+				  <a href="https://workid.herokuapp.com" class="btn btn-primary mr-2 mb-2">TAKE QUIZ NOW</a>
+				</div>				
 				<p class="lead" style="text-align:justify">
-					In Covid-19 pandemic, wearing a mask is compulsory and important for our health, and permission to open places is granted after checking the mask.
-					To make mask checking automated, we developed an integrated mask detection system M-DETECT to connect with cctv cameras in offices, 
-					schools, tuitions, industries, shops and other places to detect masks and then grant the permission. 
-					You can contact us for more information and integration.
-					<br>As a need of concern  we launched the M-Detect(Beta-Lite) version integrated with the website to detect masks and grant permission that you can use with your mobile and system camera.
-				    <br><b>M-DETECT is the client side application we dont take your video stream to our server FEEL FREE TO USE</b>
-				</p>
-				 
-				<h4 style="text-align:justify">We need your support to make it more accurate, so please give your feedback towards this cause</h4>
-				<h3 style="text-align:justify">For more information and customization Get in touch with the team !</h3>
+                 After 4 lockdowns , we are standing at the stage of first unlock, In this time when the cases of corona virus is 
+                 incresing and we are going towards unlocking it is important to validate your knowledge about covid-19 once agian.
+                 Take quiz ,check your 'CQ' and revise your knowledge and be safe! 				 
+                </p>
+				<h3>WANT TO MAKE NEXT QUIZ Get in touch with the team!</h3>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
-	
+
 			  </div>
 			  
 			   <div class="col-md-4 text-center" >
-			    <h5>HOW TO USE?</h5>
-				<iframe class="img-fluid" style="" src="https://www.youtube.com/embed/3yoko9SL1_k" frameborder="0" 
-				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			    <h5>INSTRUCTIONS</h5>
+
+				<a href="https://workid.herokuapp.com/quiz" style="margin:2%"><img src="../images/projects/quiz.jpg" class="img-fluid" alt="Image"></a> 
 				
 				<div style="text-align:justify" >
 				  <p>
-				   1. Go to <a href="https://workid.herokuapp.com">M-DETECT</a> site.<br>
-				   2. It may takes 2-3 minutes when you open the site for first time to load all files.<br>
-				   3. After all files get loaded you can press <b>START</b> button to start detection and same for <b>STOP</b>.<br>
-				   4. Allow permission to camera and again <b>START</b> the detection<br>
-                   5. You can <b>DENEY</b> and <b>ALLOW</b> permission on face cover detection<br>
-				   6. You can <b>ON|OFF</b> sound on detection.<br>
-				   7. If site running slow, reload immediately.
+				   1. Go to <a href="https://workid.herokuapp.com/quiz">CQ-QUIZ</a> site.<br>
+				   2. Awareness quiz contains 10 questions<br>
+				   3. Each question have one correct answer<br>
+				   4. Your answer will be scored on the basis of your first click on options<br>
+                   5. You cannot go to <b>'NEXT'</b> question until you select right option<br>
 				  </p>				 
 				</div>
 
@@ -166,7 +160,7 @@
 					  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/" class="p-2"><span class="icon-linkedin"></span></a>
 				   </div>
 				    <h6>@Inderdeep</h6> 
-					<p>Student|AI & Web enthusiast</p> 
+					<p>Student|Quiz Developer</p> 
 
 				   <img width="100" height="100" alt="Navnish" src="https://media-exp1.licdn.com/dms/image/C5603AQGVg93hhWWemA/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=aFGTq-uwe_I73WJFdpB5gTQbMpfUbcKGb6zjccDPKnc
 ">
@@ -176,7 +170,7 @@
 					  <a href="https://www.linkedin.com/in/navnish-singh-97717b196/" class="p-2"><span class="icon-linkedin"></span></a>
 				   </div>
 					<h6>@Navnish</h6>
-					<p>Student|IoT enthusiast</p>
+					<p>Student|Editor</p>
 				</div>				
 				
 		
