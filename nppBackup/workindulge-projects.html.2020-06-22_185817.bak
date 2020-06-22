@@ -154,7 +154,7 @@
             <div class="h-entry">
 		  
               <h2 class="font-size-regular"><a href="/projects/aquabin.html"  target="_blank" >AQUABIN</a></h2>
-				<iframe width="560" height="315" class="img-fluid" src="https://www.youtube.com/embed/jaYUwhaV5KA" frameborder="0" 
+				<iframe width="560" height="315" class="img-fluid" src="https://www.youtube.com/embed/3yoko9SL1_k" frameborder="0" 
 
 				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
               <div class="meta mb-4">Team Aquabin <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
@@ -205,10 +205,10 @@
               </div>
               <div class="col-md-3  text-center">
                 <h2 class="footer-heading mb-4">Follow Us</h2>
-                <a href="https://www.facebook.com/WorkIndulge-102114091560296" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-                <a href="https://www.youtube.com/channel/UCgBMzDMaJ_38npmlcqwVKRA" class="pl-3 pr-3"><span class="icon-youtube"></span></a>
-                <a href="https://www.instagram.com/workindulge/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                <a href="https://www.linkedin.com/company/workindulge" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
               </div>
             </div>
           </div>

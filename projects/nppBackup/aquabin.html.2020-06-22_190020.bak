@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>mask-detection-WorkIndulge</title>
+    <title>aquabin-workindulge</title>
 	<link rel="shortcut icon" href="../images/icon.png" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<meta name="keywords" content="workindulge,aquabin,ai boat,self motion planning,iot boat">
+	<meta name="description" content="AI , IOT and Remote Access enabled smart boat which runs on expert system to Detect , Maneuver and Collect floating trash over the river bodies using Computer Vision ,
+	self motion planning , monitoring AI system to Self Train over unseen data , connected with easy to use game like UI dashboard.">        
     
- 	<meta name="keywords" content="covid-19,mask detection,mdetect,mask,ai mask">
-	<meta name="description" content="Integrated mask detection system M-DETECT to connect with cctv cameras in offices, 
-					schools, tuitions, industries, shops and other places to detect masks and then grant the permission. ">  
-				 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="../fonts/icomoon/style.css">
 
@@ -28,6 +28,7 @@
     <link rel="stylesheet" href="../css/aos.css">
 
     <link rel="stylesheet" href="../css/style.css">
+
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169883677-1"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -117,68 +118,32 @@
 		  
 		
             <div class="row">              
-              <div class="col-md-8 mb-4" >
-          			  
-			    <h1>M-DETECT (Beta-Lite Version)</h1> 
-				<a href="https://workid.herokuapp.com" style="margin:2%"><img src="../images/projects/mdetect.jpg" class="img-fluid" alt="mask detection"></a>  
-				<div class="text-center" style="margin-top:2%">
-				  <a href="https://workid.herokuapp.com" class="btn btn-primary mr-2 mb-2">GO TO SITE</a>
-				</div>
-				
-				<br>
+
+              <div class="col-md-8 mb-4" >    
+			    
+
+			    <h1>AQUABIN<i>(Coming soon)</i></h1> 
+			
 				<p class="lead" style="text-align:justify">
-					In Covid-19 pandemic, wearing a mask is compulsory and important for our health, and permission to open places is granted after checking the mask.
-					To make mask checking automated, we developed an integrated mask detection system M-DETECT to connect with cctv cameras in offices, 
-					schools, tuitions, industries, shops and other places to detect masks and then grant the permission. 
-					You can contact us for more information and integration.
-					<br>As a need of concern  we launched the M-Detect(Beta-Lite) version integrated with the website to detect masks and grant permission that you can use with your mobile and system camera.
-				    <br><b>M-DETECT is the client side application we dont take your video stream to our server FEEL FREE TO USE</b>
-				</p>
-				 
-				<h4 style="text-align:justify">We need your support to make it more accurate, so please give your feedback towards this cause</h4>
-				<h3 style="text-align:justify">For more information and customization Get in touch with the team !</h3>
-                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
-	
+					AI , IOT and Remote Access enabled smart boat which runs on expert system to Detect , Maneuver and Collect floating trash over
+					 the river bodies using Computer Vision , 
+					self motion planning , monitoring AI system to Self Train over unseen data , connected with easy to use game like UI dashboard.			 
+                </p>
+				<h3>Get in touch with the team for more information!</h3>
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
 			  </div>
 			  
 			   <div class="col-md-4 text-center" >
-			    <h5>HOW TO USE?</h5>
-				<iframe class="img-fluid" style="" src="https://www.youtube.com/embed/CnlV4M9mk6s" frameborder="0" 
+			    <h5>Check out the video</h5>
+				<iframe class="img-fluid" style="" src="https://www.youtube.com/embed/3yoko9SL1_k" frameborder="0" 
 				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 				<div style="text-align:justify" >
 				  <p>
-				   1. Go to <a href="https://workid.herokuapp.com">M-DETECT</a> site.<br>
-				   2. It may takes 2-3 minutes when you open the site for first time to load all files.<br>
-				   3. After all files get loaded you can press <b>START</b> button to start detection and same for <b>STOP</b>.<br>
-				   4. Allow permission to camera and again <b>START</b> the detection<br>
-                   5. You can <b>DENEY</b> and <b>ALLOW</b> permission on face cover detection<br>
-				   6. You can <b>ON|OFF</b> sound on detection.<br>
-				   7. If site running slow, reload immediately.
+
 				  </p>				 
 				</div>
 
-			    <h5>PROJECT TEAM</h5>
-				<div class="text-center" >
-				   <img width="100" height="100" alt="ID" src="https://media-exp1.licdn.com/dms/image/C5103AQH7QYoGb-cg6g/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=9zBYnL_P5feNVvb4J6yjWl6CY64NAhr3OPLCPMV2emg">
-				   <div>
-					  <a href="https://www.facebook.com/inderdeep.singh.92798072" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-				    <h6>@Inderdeep</h6> 
-					<p>Student|AI & Web enthusiast</p> 
-
-				   <img width="100" height="100" alt="Navnish" src="https://media-exp1.licdn.com/dms/image/C5603AQGVg93hhWWemA/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=aFGTq-uwe_I73WJFdpB5gTQbMpfUbcKGb6zjccDPKnc
-">
-				   
-				   <div>
-					  <a href="https://www.facebook.com/navnish.singh.129" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/in/navnish-singh-97717b196/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-					<h6>@Navnish</h6>
-					<p>Student|IoT enthusiast</p>
-				</div>				
-				
 		
 			   </div>
 			  
