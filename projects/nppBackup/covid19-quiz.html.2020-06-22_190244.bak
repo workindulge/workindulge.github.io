@@ -64,6 +64,7 @@
           </div>
           <div class="col-6">
             <p class="mb-0 float-right">
+              <span class="mr-3"><a href="tel://#"> <span class="icon-phone mr-2"></span><span class="d-none d-lg-inline-block">8178967356</span></a></span>
               <span><a href="#"><span class="icon-envelope mr-2"></span><span class="d-none d-lg-inline-block">workindulgeteam@gmail.com</span></a></span>
             </p>
             
@@ -241,7 +242,7 @@
             <div class="border-top pt-5">
             <p>
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | WorkIndulge
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | workindulge.com
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
       </p>
             </div>
