@@ -118,7 +118,7 @@
 		
             <div class="row">              
 
-              <div class="col-md-9 mb-4" >    
+              <div class="col-md-8 mb-4" >    
 			    
 
 			    <h1>AQUABIN</h1> 
@@ -142,13 +142,13 @@
                     <br/> 
 					System works under 2 modes - <b>Manual and AI</b> 
                      <br/><br/>
-					<b>1. Manual</b><br/>
+					<b>1. Manual:</b><br/>
 					Under the manual mode your app will get connected to the cloud API and user authentication ,authorization and validation will done.
 					After that you will get a live stream from the boat camera to your app dashboard. So that you can control your boat in real time to detect and collect the trash. Once the bucket gets full or battery status gets low you will get a notification to charge the boat or to empty the trash bucket
-					. If you are at a remote location and internet connection is not available you can connect boat over wifi module also but due  to low bandwidth you will not get a live stream from the boat.
-                    <br/> <br/>
-					<b>2. AI</b><br/>
-					In AI mode , the boat will start detecting the trash via Computer Vision and self motion planning and give instruction to the boat controller and keep the track of each movement and display it in form of monitoring records. Modes of AI depend upon the water bodies.
+					.If you are at a remote location and internet connection is not available you can connect boat over wifi module also but due  to low bandwidth you will not get a live stream from the boat.
+                    <br/> 
+					<b>2. AI:</b><br/>
+					In AI mode , the boat will start detecting the trash via Computer Vision and self motion planning and give instruction to the boat controller and keep the track of each movement and display it in form of monitoring records. Modes of AI depend upon the different water bodies type.
 					You can see working of the boat in a 2D top view simulator.
 					
                 </p>
@@ -156,55 +156,17 @@
 				<a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
 			  </div>
 			  
-			   <div class="col-md-3 text-center" >
-			    <h5>PROJECT VIDEO</h5>
-				<iframe class="img-fluid" style="" src="https://www.youtube.com/embed/7NsVVNo4HXM" frameborder="0" 
+			   <div class="col-md-4 text-center" >
+			    <h5>Check out the video</h5>
+				<iframe class="img-fluid" style="" src="https://www.youtube.com/embed/jaYUwhaV5KA" frameborder="0" 
 				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
-			    <h5>TEAM LEAD</h5>
-				<div class="text-center" >
-				
-				   <img width="80" height="80" alt="ID" src="https://media-exp1.licdn.com/dms/image/C5103AQH7QYoGb-cg6g/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=9zBYnL_P5feNVvb4J6yjWl6CY64NAhr3OPLCPMV2emg">
-				   <div>
-					  <a href="https://www.facebook.com/inderdeep.singh.92798072" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-				    <p>@Inderdeep<br/>Student|AI & Integration</p> 
-					
-				   <img width="80" height="80" alt="Navnish" src="https://media-exp1.licdn.com/dms/image/C5603AQGVg93hhWWemA/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=aFGTq-uwe_I73WJFdpB5gTQbMpfUbcKGb6zjccDPKnc
-                   ">
-				   <div>
-					  <a href="https://www.facebook.com/navnish.singh.129" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/in/navnish-singh-97717b196/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-					<p>@Navnish<br/>Student|IoT control system</p>
+				<div style="text-align:justify" >
+				  <p>
 
-				   <img width="80" height="80" alt="Tanujdeep" src="https://media-exp1.licdn.com/dms/image/C5603AQFhIU0nOgx1uw/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=A3-ZP4VO8fVWp4ZDcux45wlVEHIlfKUg2n-YTVUxYCc">
-				   <div>
-					  <a href="https://www.facebook.com/tanujdeep.talwar" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/in/tanujdeep-singh-39815a18a/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-					<p>@Tanujdeep<br/>Student|Android & Web</p>					
-					
-					<h5>TECH SUPPORT</h5>
+				  </p>				 
+				</div>
 
-				   <img width="80" height="80" alt="Yash Verma" src="https://media-exp1.licdn.com/dms/image/C5103AQFanMVkkAZ4Xg/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=d4Kyl8K_s63MuJxsoh2T00WprIODlblYDM0-q9fJsB0">
-				   <div>
-					  <a href="https://www.facebook.com/yashgold.smith" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/in/yashverma99/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-				    <p>@YashVerma<br/>Student|UI</p> 
-					
-				   <img width="80" height="80" alt="Shahshank Phogat" src="https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/87843508_2759145647501144_7503498399451185152_o.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=l5eWj1QlnKoAX_DrN3f&_nc_ht=scontent.fdel3-1.fna&oh=48e59d10519e21412746da1bb96229f2&oe=5F30C98B">
-				   <div>
-					  <a href="https://www.facebook.com/shashank.phogat.3" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-					<p>@Shashank<br/>Student|IoT</p>
-
-			
-					
-				</div>	
 		
 			   </div>
 			  
