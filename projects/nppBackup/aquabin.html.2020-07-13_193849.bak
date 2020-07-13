@@ -122,11 +122,11 @@
 			    
 
 			    <h1>AQUABIN</h1> 
-			    <div align="center"><img src="../images/projects/aquabin.jpg" class="img-fluid" alt="covid19 quiz"></div>
+			    <div align="center"><img src="../images/projects/aquabin_.jpg" class="img-fluid" alt="covid19 quiz"></div>
 				<p class="lead" style="text-align:justify">
-					AI , IOT and Remote Access enabled system to Detect , Maneuver and Collect floating trash over
-					the water bodies using Computer Vision and self motion planning with monitoring report generating system connected 
-					with easy to use game like UI.<br/><br/>
+					AI , IOT and Remote Access enabled smart boat which runs on expert system to Detect , Maneuver and Collect floating trash over
+					the river bodies using Computer Vision , self motion planning , monitoring AI system to Self Train over unseen data , connected 
+					with easy to use game like UI dashboard.<br/><br/>
 
 					According to the ocean index report <b><i>260 aquatic species die</i></b> because of water pollution in the world and about 30% of 80% of 1.5 metric tonne  of open waste in India is left in the water bodies according to india today report which become a threat to our nature.
 					And affects the life of animals, humans , tourism and the economy of our country. And it is very difficult to clean the floating trash manually from small urban drains, streams, rivers, lakes and estuaries , and have life hazards and lack of proper technology.<br/>
@@ -202,19 +202,7 @@
 				   </div>
 					<p>@Shashank<br/>Student|IoT</p>
 
-				   <img width="80" height="80" alt="Prajwal" src="https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/48052363_585093351912657_8363013710062551040_n.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=oomE95xdLeMAX-2e7So&_nc_ht=scontent.fdel3-1.fna&oh=a0f3f8e6d3a2c2b5443c1627d5e732ed&oe=5F30B130">
-				   <div>
-					  <a href="https://www.facebook.com/prajjwal.tyagi.357" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-					<p>Prajwal<br/>Student|Boat Design</p>
-
-				   <img width="80" height="80" alt="Amarpreet" src="../images/user.png">
-				   <div>
-					  <a href="https://www.facebook.com/WorkIndulge-102114091560296/" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
-				   </div>
-					<p>@Amarpreet<br/>Student|Boat Design</p>					
+			
 					
 				</div>	
 		

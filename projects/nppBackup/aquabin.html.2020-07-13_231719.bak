@@ -122,7 +122,7 @@
 			    
 
 			    <h1>AQUABIN</h1> 
-			    <div align="center"><img src="../images/projects/aquabin.jpg" class="img-fluid" alt="covid19 quiz"></div>
+			    <div align="center"><img src="../images/projects/aquabin_.jpg" class="img-fluid" alt="covid19 quiz"></div>
 				<p class="lead" style="text-align:justify">
 					AI , IOT and Remote Access enabled system to Detect , Maneuver and Collect floating trash over
 					the water bodies using Computer Vision and self motion planning with monitoring report generating system connected 
@@ -211,7 +211,7 @@
 
 				   <img width="80" height="80" alt="Amarpreet" src="../images/user.png">
 				   <div>
-					  <a href="https://www.facebook.com/WorkIndulge-102114091560296/" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="Amarpreet" class="p-2"><span class="icon-facebook"></span></a>
 					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
 				   </div>
 					<p>@Amarpreet<br/>Student|Boat Design</p>					

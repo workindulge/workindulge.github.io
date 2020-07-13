@@ -122,7 +122,7 @@
 			    
 
 			    <h1>AQUABIN</h1> 
-			    <div align="center"><img src="../images/projects/aquabin.jpg" class="img-fluid" alt="covid19 quiz"></div>
+			    <div align="center"><img src="../images/projects/aquabin_.jpg" class="img-fluid" alt="covid19 quiz"></div>
 				<p class="lead" style="text-align:justify">
 					AI , IOT and Remote Access enabled system to Detect , Maneuver and Collect floating trash over
 					the water bodies using Computer Vision and self motion planning with monitoring report generating system connected 
@@ -202,16 +202,16 @@
 				   </div>
 					<p>@Shashank<br/>Student|IoT</p>
 
-				   <img width="80" height="80" alt="Prajwal" src="https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/48052363_585093351912657_8363013710062551040_n.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=oomE95xdLeMAX-2e7So&_nc_ht=scontent.fdel3-1.fna&oh=a0f3f8e6d3a2c2b5443c1627d5e732ed&oe=5F30B130">
+				   <img width="80" height="80" alt="Prajwal" src=".../images/user.png">
 				   <div>
 					  <a href="https://www.facebook.com/prajjwal.tyagi.357" class="p-2"><span class="icon-facebook"></span></a>
 					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
 				   </div>
 					<p>Prajwal<br/>Student|Boat Design</p>
 
-				   <img width="80" height="80" alt="Amarpreet" src="../images/user.png">
+				   <img width="80" height="80" alt="Shahshank Phogat" src=".../images/user.png">
 				   <div>
-					  <a href="https://www.facebook.com/WorkIndulge-102114091560296/" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="Amarpreet" class="p-2"><span class="icon-facebook"></span></a>
 					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
 				   </div>
 					<p>@Amarpreet<br/>Student|Boat Design</p>					
