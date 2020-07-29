@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>severity-workindulge</title>
+    <title>sanitization-tunnel-workindulge</title>
 	<link rel="shortcut icon" href="../images/icon.png" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<meta name="keywords" content="workindulge , severity , know your severity ">
-	<meta name="description" content="This project works on a machine learning model, which is trained on the data which comprises of various symptoms of patients, 
-			   their age and other important factors linked with COVID as features and 5 categories in which these patients can be classified as Labels.        
+	<meta name="keywords" content="workindulge,sanitization tunnel,workindulge">
+	<meta name="description" content="AI , IOT and Remote Access enabled smart boat which runs on expert system to Detect , Maneuver and Collect floating trash over the river bodies using Computer Vision ,
+	self motion planning , monitoring AI system to Self Train over unseen data , connected with easy to use game like UI dashboard.">        
     
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="../fonts/icomoon/style.css">
@@ -88,7 +88,7 @@
                 <li><a href="../index.html#home-section" class="nav-link">Home</a></li>
                 <li><a href="../index.html#about-section" class="nav-link">About Us</a></li>
                 <li><a href="../index.html#services-section" class="nav-link">Services</a></li>
-                <li><a href="../workindulge-projects.html" class="nav-link">Projects</a></li>
+                <li><a href="../index.html#projects-section" class="nav-link">Projects</a></li>
                 <!--<li><a href="../index.html#blog-section" class="nav-link">Blogs</a></li>-->
                 <li><a href="#contact-section" class="nav-link">Contact</a></li>
               </ul>
@@ -121,50 +121,98 @@
               <div class="col-md-9 mb-4" >    
 			    
 
-			    <h1>SAVING LIVES OF COVID-19 PATIENTS USING MACHINE LEARNING</h1> <br><br>
-
-				<a href="https://severity.herokuapp.com/" style="margin:2%"><img src="../images/projects/severity.jpg" class="img-fluid" alt="mask detection"></a>  
-				<div class="text-center" style="margin-top:2%">
-				  <a href="https://severity.herokuapp.com/" class="btn btn-primary mr-2 mb-2">GO TO SITE</a>
-				</div>
-
+			    <h1>AQUABIN</h1> 
+			    <div align="center"><img src="../images/projects/aquabin.JPG" class="img-fluid" alt="aquabin"></div>
+				<br><br>
+				<row>
+				<h2>HOW IT WORKS?</h2>
 				<p class="lead" style="text-align:justify">
-					This project is made to give idea to hospitals and government on how to manage the COVID-19 patients effectively.
-					<br/><br/>
-               This project works on a machine learning model, which is trained on the data which comprises of various symptoms of patients, 
-			   their age and other important factors linked with COVID as features and 5 categories in which these patients can be classified as Labels.
-			   <br><br><i>
-			   My mom is a staff nurse so I have made this data under her guidance, however the hospitals can first collect the data from the real COVID 
-			   positive patients and then train the model</i><br><br>
-			   Further after training the above model, this model is saved as pickle file. Then this model is loaded in flask which is a web framework, and 
-			   it helps to connect our model to our website. The user enters values in the frontend of the website and these values is supplied to our model 
-			   which is there in the backend and then it sends the output based on which our output is displayed on the front end.So to summarize the user 
-			   answers some questions on the website that based on there answers, the user is classified on one of the 5 categories which are 
-			   <b>EMERGENCY , EXTREME , HIGH , LOW , VERY LOW</b> which is the measure of there severity.
-
-				Hence the aim of this project is that the hospitals and government opts such a system in order to find the severity of COVID
-				positive patients and hence to give priority to those who have higher severity and also to manage the patients in a better way so that more 
-				lives can be saved and patients can be given care before it becomes critical and those who’s condition is already critical they can get care on time.
-
-  
 					
+					As a person enters the tunnel enclosure, motion sensors automatically activate 5 spraying nozzles that have been placed strategically at
+					the roof and both the sides of the tunnel and they start spraying disinfectant liquid that has been stored in a 20L Easy Refillable Disinfectant Tank.
+					The spraying starts as soon as person steps into the tunnel and stops after 7 seconds. At both the ends of the tunnel PVC curtains can be provided for
+					entrapping the disinfectant spray within the tunnel and providing required opacity. The 20L Easy Refillable Disinfectant Tank has been strategically
+					placed at the side to reduce the height and allow quick refill of the tank. Provision for storing hand sanitizer dispenser has been provided in the 
+					side cabinet of the tunnel.	
+				
+                </p>
+
+				<br>
+				<h2>WHY SANITIZATION TUNNEL?</h2>
+				<p class="lead" style="text-align:justify">
+					
+					In the wake of the COVID-19 Pandemic, the risks of cross-contamination remain soaring high. 
+					The chances are especially strong with asymptomatic patients who are capable of spreading the infection, even 
+					though they themselves might not experience any lethal symptoms of the disease. The Novel Coronavirus is known to 
+					stay active on inorganic surfaces for an extended period of time. Thus the need of the hour is to introduce mechanisms 
+					that would efficiently eliminate the virus and hinder the rapid spread of it. Retail Impact is introducing the 
+					“Sanitization Tunnel” – a Personnel Sanitization Enclosure (PSE) that can effectively eliminate the risks of infection
+					 and contamination in high traffic areas.
                 </p>
 				<h3>Get in touch with the team for more information!</h3>
 				<a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
 			  </div>
 			  
 			   <div class="col-md-3 text-center" >
-			    <h5>PROJECT BY</h5>
-
+			    <h5>PROJECT VIDEO</h5>
+				<iframe class="img-fluid" style="" src="https://www.youtube.com/embed/7NsVVNo4HXM" frameborder="0" 
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				
+			    <h5>TEAM LEAD</h5>
 				<div class="text-center" >
 				
-				   <img width="120" height="120" alt="Shahshank Phogat" src="https://media-exp1.licdn.com/dms/image/C5603AQE1kRIbVrNpLw/profile-displayphoto-shrink_200_200/0?e=1601510400&v=beta&t=O-DjE4QDypClLOL6S8Z7tjKqE5Ap_XboqcI2CP8tEVs">
+				   <img width="80" height="80" alt="ID" src="https://media-exp1.licdn.com/dms/image/C5103AQH7QYoGb-cg6g/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=9zBYnL_P5feNVvb4J6yjWl6CY64NAhr3OPLCPMV2emg">
+				   <div>
+					  <a href="https://www.facebook.com/inderdeep.singh.92798072" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+				    <p>@Inderdeep<br/>Student|AI & Integration</p> 
+					
+				   <img width="80" height="80" alt="Navnish" src="https://media-exp1.licdn.com/dms/image/C5603AQGVg93hhWWemA/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=aFGTq-uwe_I73WJFdpB5gTQbMpfUbcKGb6zjccDPKnc
+                   ">
+				   <div>
+					  <a href="https://www.facebook.com/navnish.singh.129" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/navnish-singh-97717b196/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>@Navnish<br/>Student|IoT control system</p>
+
+				   <img width="80" height="80" alt="Tanujdeep" src="https://media-exp1.licdn.com/dms/image/C5603AQFhIU0nOgx1uw/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=A3-ZP4VO8fVWp4ZDcux45wlVEHIlfKUg2n-YTVUxYCc">
+				   <div>
+					  <a href="https://www.facebook.com/tanujdeep.talwar" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/tanujdeep-singh-39815a18a/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>@Tanujdeep<br/>Student|Android & Web</p>					
+					
+					<h5>TECH SUPPORT</h5>
+
+				   <img width="80" height="80" alt="Yash Verma" src="https://media-exp1.licdn.com/dms/image/C5103AQFanMVkkAZ4Xg/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=d4Kyl8K_s63MuJxsoh2T00WprIODlblYDM0-q9fJsB0">
+				   <div>
+					  <a href="https://www.facebook.com/yashgold.smith" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/yashverma99/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+				    <p>@YashVerma<br/>Student|UI</p> 
+					
+				   <img width="80" height="80" alt="Shahshank Phogat" src="https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/87843508_2759145647501144_7503498399451185152_o.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=l5eWj1QlnKoAX_DrN3f&_nc_ht=scontent.fdel3-1.fna&oh=48e59d10519e21412746da1bb96229f2&oe=5F30C98B">
 				   <div>
 					  <a href="https://www.facebook.com/shashank.phogat.3" class="p-2"><span class="icon-facebook"></span></a>
-					  <a href="https://www.linkedin.com/in/shashank-p-4b20b3196/" class="p-2"><span class="icon-linkedin"></span></a>
+					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
 				   </div>
-					<p>@Shashank<br/>Student|ML</p>
+					<p>@Shashank<br/>Student|IoT</p>
 
+				   <img width="80" height="80" alt="Prajwal" src="https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/48052363_585093351912657_8363013710062551040_n.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=oomE95xdLeMAX-2e7So&_nc_ht=scontent.fdel3-1.fna&oh=a0f3f8e6d3a2c2b5443c1627d5e732ed&oe=5F30B130">
+				   <div>
+					  <a href="https://www.facebook.com/prajjwal.tyagi.357" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>Prajwal<br/>Student|Boat Design</p>
+
+				   <img width="80" height="80" alt="Amarpreet" src="../images/user.png">
+				   <div>
+					  <a href="https://www.facebook.com/WorkIndulge-102114091560296/" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>@Amarpreet<br/>Student|Boat Design</p>					
+					
 				</div>	
 		
 			   </div>
