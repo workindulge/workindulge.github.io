@@ -119,56 +119,7 @@
             <h2 class="section-title mb-3">Projects@WorkIndulge</h2>
           </div>
         </div>
-
-	<div class="row">
-		
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
-            <div class="h-entry">
-              <h2 class="font-size-regular"><a href="/projects/mask-detection.html">KNOW YOUR SEVERITY</a></h2>
-			  <a href="https://severity.herokuapp.com/"  target="_blank"><img src="images/projects/severity.jpg" class="img-fluid" alt="mask detection"></a>
-              <div class="meta mb-4">
-			  <a href="https://www.linkedin.com/in/shashank-p-4b20b3196/">@Shanshank</a></a>
-			  <span class="mx-2">&bullet;</span> July 20, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="https://severity.herokuapp.com/"  target="_blank">USE WEBSITE</a></div>
-              <p>SAVING LIVES OF COVID-19 PATIENTS USING MACHINE LEARNING<a href="/projects/severity.html">read more</a></p>
-
-            </div> 
-          </div>
-		  
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
-            <div class="h-entry">
-
-              <h2 class="font-size-regular"><a href="/projects/covid19-quiz.html">COVID-19 QUIZ</a></h2>
-			  <a href="https://workid.herokuapp.com/quiz"  target="_blank"><img src="images/projects/quiz.jpg" class="img-fluid" alt="covid-19 quiz"></a>
-              <div class="meta mb-4">
-			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@ID</a> and <a href="https://www.linkedin.com/in/navnish-singh-97717b196/">@Navnish</a>
-			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span>
-			  <a href="https://workid.herokuapp.com/quiz"  target="_blank">TAKE QUIZ</a></div>
-              <p>TAKE COVID-19 QUIZ NOW <a href="/projects/covid19-quiz.html">read more</a></p>
-              <p><a href="#"></a></p>
-
-            </div>
-          </div>
-		  
-
-
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
-            <div class="h-entry">
-		  
-              <h2 class="font-size-regular"><a href="/projects/aquabin.html"  target="_blank" >AQUABIN</a></h2>
-				<iframe width="560" height="315" class="img-fluid" src="https://www.youtube.com/embed/7NsVVNo4HXM" frameborder="0" 
-
-				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-              <div class="meta mb-4">Team Aquabin <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="/WORK-INDULGE/projects/aquabin.html">CHECK OUT</a></div>
-              <p>Aquabin: TRASH COLLECTING BOAT SYSTEM <a href="/projects/aquabin.html">read more</a></p>
-
-            </div> 
-          </div>
-          
-        </div>
-	
-	<div class="row">
+		        <div class="row">
 		
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
@@ -182,7 +133,7 @@
 
             </div> 
           </div>
-
+		  
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
 
@@ -197,7 +148,20 @@
 
             </div>
           </div>
-		  		    
+		  
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
+            <div class="h-entry">
+		  
+              <h2 class="font-size-regular"><a href="/projects/aquabin.html"  target="_blank" >AQUABIN</a></h2>
+				<iframe width="560" height="315" class="img-fluid" src="https://www.youtube.com/embed/7NsVVNo4HXM" frameborder="0" 
+
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+              <div class="meta mb-4">Team Aquabin <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="/WORK-INDULGE/projects/aquabin.html">CHECK OUT</a></div>
+              <p>Aquabin: TRASH COLLECTING BOAT SYSTEM <a href="/projects/aquabin.html">read more</a></p>
+
+            </div> 
+          </div>
           
         </div>
 

@@ -127,10 +127,10 @@
               <h2 class="font-size-regular"><a href="/projects/mask-detection.html">KNOW YOUR SEVERITY</a></h2>
 			  <a href="https://severity.herokuapp.com/"  target="_blank"><img src="images/projects/severity.jpg" class="img-fluid" alt="mask detection"></a>
               <div class="meta mb-4">
-			  <a href="https://www.linkedin.com/in/shashank-p-4b20b3196/">@Shanshank</a></a>
-			  <span class="mx-2">&bullet;</span> July 20, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@Shanshank</a></a>
+			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
 			  <a href="https://severity.herokuapp.com/"  target="_blank">USE WEBSITE</a></div>
-              <p>SAVING LIVES OF COVID-19 PATIENTS USING MACHINE LEARNING<a href="/projects/severity.html">read more</a></p>
+              <p>M-DETECT: MASK DETECTION SYSTEM INTEGRATED WITH WEBSITE <a href="/projects/mask-detection.html">read more</a></p>
 
             </div> 
           </div>

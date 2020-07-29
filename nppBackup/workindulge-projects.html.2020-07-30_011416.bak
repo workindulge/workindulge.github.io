@@ -124,13 +124,13 @@
 		
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
-              <h2 class="font-size-regular"><a href="/projects/mask-detection.html">KNOW YOUR SEVERITY</a></h2>
-			  <a href="https://severity.herokuapp.com/"  target="_blank"><img src="images/projects/severity.jpg" class="img-fluid" alt="mask detection"></a>
+              <h2 class="font-size-regular"><a href="/projects/mask-detection.html">M-DETECT</a></h2>
+			  <a href="https://workid.herokuapp.com"  target="_blank"><img src="images/projects/mdetect.jpg" class="img-fluid" alt="mask detection"></a>
               <div class="meta mb-4">
-			  <a href="https://www.linkedin.com/in/shashank-p-4b20b3196/">@Shanshank</a></a>
-			  <span class="mx-2">&bullet;</span> July 20, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="https://severity.herokuapp.com/"  target="_blank">USE WEBSITE</a></div>
-              <p>SAVING LIVES OF COVID-19 PATIENTS USING MACHINE LEARNING<a href="/projects/severity.html">read more</a></p>
+			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@ID</a> and <a href="https://www.linkedin.com/in/navnish-singh-97717b196/">@Navnish</a>
+			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="https://workid.herokuapp.com"  target="_blank">USE WEBSITE</a></div>
+              <p>M-DETECT: MASK DETECTION SYSTEM INTEGRATED WITH WEBSITE <a href="/projects/mask-detection.html">read more</a></p>
 
             </div> 
           </div>
@@ -150,8 +150,6 @@
             </div>
           </div>
 		  
-
-
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
 		  
@@ -182,7 +180,7 @@
 
             </div> 
           </div>
-
+		  
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
 
@@ -197,7 +195,20 @@
 
             </div>
           </div>
-		  		    
+		  
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
+            <div class="h-entry">
+		  
+              <h2 class="font-size-regular"><a href="/projects/aquabin.html"  target="_blank" >AQUABIN</a></h2>
+				<iframe width="560" height="315" class="img-fluid" src="https://www.youtube.com/embed/7NsVVNo4HXM" frameborder="0" 
+
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+              <div class="meta mb-4">Team Aquabin <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="/WORK-INDULGE/projects/aquabin.html">CHECK OUT</a></div>
+              <p>Aquabin: TRASH COLLECTING BOAT SYSTEM <a href="/projects/aquabin.html">read more</a></p>
+
+            </div> 
+          </div>
           
         </div>
 
@@ -247,18 +258,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-3  text-center">
-            <h2 class="footer-heading mb-4">Contact Us For Business</h2>
-            <form action="#" method="post" class="footer-subscribe">
-              <div class="input-group mb-3 text-center">
-                <!--
-				<input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">-->
-                <div class="input-group-append " >
-                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
-                </div>
-              </div>
-            </form>
-          </div>
+
         </div>
         <div class="row pt-5 mt-5 text-center">
           <div class="col-md-12">
