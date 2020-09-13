@@ -363,41 +363,38 @@
     </section>
 
 
-    <section class="site-section" id="blog-section" >
+    <section class="site-section" id="blog-section" align="center">
       <div class="container">
         <div class="row mb-3">
           <div class="col-12 text-center">
-            <h2 class="section-title mb-3">Blogs</h2>
+            <h2 class="section-title mb-3">Blogs@WorkIndulge</h2>
           </div>
         </div>
 
         <div class="row">
-          <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="h-entry">
-              <img src="blogs/images/nav3.jpg" alt="Image" class="img-fluid" style="height:180px;width:100%">
-              <h2 class="font-size-regular"><a href="/blogs/EXPERIENCE BONE CONDUCTION TECHNOLOGY IN FEW BUCKS.html">EXPERIENCE BONE CONDUCTION TECHNOLOGY IN FEW BUCKS</a></h2>
-              <div class="meta mb-4">Navnish Singh <span class="mx-2">&bullet;</span> Sept 13, 2020<span class="mx-2">&bullet;</span><span class="mx-2">5 min read</span></div>
-              <p>You all may have seen or heard about Bone conduction earphones, they are making their hypes now a days trying to replace traditional earphones as in bone 
-			  conduction you can hear your surroundings while listening to music.</p>
-              <p><a href="/blogs/EXPERIENCE BONE CONDUCTION TECHNOLOGY IN FEW BUCKS.html">Continue Reading...</a></p>
+              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+              <h2 class="font-size-regular"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
+              <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p><a href="#">Continue Reading...</a></p>
             </div> 
           </div>
-		  
-          <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="h-entry">
-              <br><img src="blogs/images/shanky1.jpg" alt="Image" class="img-fluid"width="100%" > <br><br>
-              <h2 class="font-size-regular"><a href="/blogs/TRICK TO FIND BEST MODEL FOR YOUR DATA IN MACHINE LEARNING.html">TRICK TO FIND BEST MODEL FOR YOUR DATA IN MACHINE LEARNING</a></h2>
-              <div class="meta mb-4">Shashank Phogat<span class="mx-2">&bullet;</span> Sept 13, 2020<span class="mx-2">&bullet;</span><span class="mx-2">5 min read</span> </div>
-              <p>Choosing the best model, along with appropriate data splitting and hyperparameter tuning of model will help you to find best model with best parameters
-			  for your data in machine learning.Grid search CV library of sklearn can help you to do exactly that.</p>
-              <p><a href="/blogs/TRICK TO FIND BEST MODEL FOR YOUR DATA IN MACHINE LEARNING.html">Continue Reading...</a></p>
+              <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+              <h2 class="font-size-regular"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
+              <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p><a href="#">Continue Reading...</a></p>
             </div>
           </div>
   
           
         </div>
 		<div class="text-center">
-            <a href="/workindulge-blogs.html" class="btn btn-primary mr-2 mb-2">CHECK OUT BLOGS</a>
+            <a href="#" class="btn btn-primary mr-2 mb-2">CHECK OUT BLOGS</a>
         </div>
       </div>
     </section>

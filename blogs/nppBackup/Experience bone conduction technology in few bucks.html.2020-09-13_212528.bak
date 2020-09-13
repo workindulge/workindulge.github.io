@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Experience bone conduction technology in few bucks</title>
+	<link rel="shortcut icon" href="../images/icon.png" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<meta name="keywords" content="Experience, bone conduction technology, in few bucks>
+	<meta name="description" content="Experience bone conduction technology in few bucks">        
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
+    <link rel="stylesheet" href="../fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/jquery-ui.css">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="../css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="../css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="../fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="../css/aos.css">
+
+    <link rel="stylesheet" href="../css/style.css">
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169883677-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-169883677-1');
+	</script>    
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+   
+    <div class="top-bar py-3 bg-light" id="home-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-6 text-left">
+            <ul class="social-media">
+              <li><a href="https://www.facebook.com/WorkIndulge-102114091560296" class="p-2"><span class="icon-facebook"></span></a></li>
+              <li><a href="https://www.youtube.com/channel/UCgBMzDMaJ_38npmlcqwVKRA" class="p-2"><span class="icon-youtube"></span></a></li>
+              <li><a href="https://www.instagram.com/workindulge/" class="p-2"><span class="icon-instagram"></span></a></li>
+              <li><a href="https://www.linkedin.com/company/workindulge" class="p-2"><span class="icon-linkedin"></span></a></li>
+            </ul>
+          </div>
+          <div class="col-6">
+            <p class="mb-0 float-right">
+              <span><a href="#"><span class="icon-envelope mr-2"></span><span class="d-none d-lg-inline-block">workindulgeteam@gmail.com</span></a></span>
+            </p>
+            
+          </div>
+        </div>
+      </div> 
+    </div>
+
+   <header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+          
+          <div class="col-6 col-xl-2">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0"><img src="../images/workindulge.png" width="200" height="50" alt="WorkIndulge">
+			<span class="text-primary"></span> </a></h1>
+          </div>
+          <div class="col-12 col-md-10 d-none d-xl-block">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                <li><a href="../index.html#home-section" class="nav-link">Home</a></li>
+                <li><a href="../index.html#about-section" class="nav-link">About Us</a></li>
+                <li><a href="../index.html#services-section" class="nav-link">Services</a></li>
+                <li><a href="../workindulge-projects.html" class="nav-link">Projects</a></li>
+                <li><a href="../index.html#blog-section" class="nav-link">Blogs</a></li>
+                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+
+
+          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
+
+        </div>
+      </div>
+      
+    </header>
+
+
+  
+  
+    <section class="site-section" style="margin-top:5%" id="ctn">
+      <div class="container">
+        <div class="row ">
+          
+          <div class="col-md-12 order-md-1" data-aos="fade">
+		  
+		
+            <div class="row">              
+
+              <div class="col-md-10 mb-4" >    
+
+				 <h1 style="color:black">EXPERIENCE BONE CONDUCTION TECHNOLOGY IN FEW BUCKS</h1> 
+				 <h2>WHAT IS BONE CONDUCTION?</h2>
+				 
+				<div>
+				
+				<p class="lead" style="text-align:justify">
+
+					You all may have seen or heard about Bone conduction earphones, 
+					they are making their hypes now a days trying to replace traditional
+					earphones as in bone conduction you can hear your surroundings while listening to music.
+
+					<br><br>
+					
+					So before going into bone conduction we must look at how sound works.
+					Sound is just “pressure waves” which vibrates its surrounding , it can travel 
+					through air or any dense object by vibrating it .when it moves through air pressure waves
+					moves the air particle which further cause our eardrum to move back and forth with
+					air and when sound travel through dense object it cause the object to vibrate.
+					<br><br>
+					
+					Now as we know enough about sound, we can move towards bone conduction
+					<br><br>
+
+					Bone conduction is simply a technology in which instead of sound waves travelling through air banging your eardrums 
+					it travels through your skulls to the inner ear by vibrating it. So, it is simply the conduction of sound to your inner
+					ear through vibration of your skull bones.
+					<br><br>
+					
+					The bone conduction technology can also be helpful for the person with impaired hearing which makes this technology more interesting.
+					<br><br>
+
+					<img src="images/nav1.jpg" alt="head phone" width="30%">
+					<img src="images/nav2.jpg" alt="head phone" width="30%">
+					<img src="images/nav3.jpg" alt="head phone" width="30%">
+                </p>
+			     
+				 <h2>WHAT IS WORKS?</h2>
+				 <p class="lead" style="text-align:justify">
+                    
+					So, to understand the working of bone conduction we first need to have a look of our inner ear.	
+					 <br><br>
+					 
+					<img src="images/nav4.jpg" width="100%" alt="inner er"> 
+					 
+					Do not get panic by so many labels I will explain it in a simple way we will only focus on some of the main part of the ears.
+					<br><br>
+					Let’s first talk about cochlea (not kokilaben:” Lol”) this part is one of the main parts of the ear which helps to convert 
+					sound vibration to nerve impulses that can be processed by our brain. Normally we hear sound by vibration in air that
+					vibrates our eardrum through outer ear and then eardrum vibrate all other organ of middle ear and as soon as the vibration 
+					reach cochlea it converts sound vibration to nerve impulses and send the signal to brain.
+					<br><br>
+					But the bone conduction skips your eardrum a typical hearing requires vibration of eardrum to vibrate other little organ
+					in your inner ear but eardrum isn’t necessary for hearing.		
+					<br><br>	
+					
+					Bone conduction bypasses your eardrum by sending vibrations directly to inner ear through our skull bones which leads 
+					to vibration of  tiny organs of our ear and once all tiny bones start to vibrate the cochlea sends the signal to your 
+					brain without finding any difference and then you can hear to your favorite songs, podcasts ,etc.
+					
+                </p>
+
+				<h2>HOW TO MAKE BONE CONDUCTION EARPHONE ?</h2>
+				<p class="lead" style="text-align:justify">
+					To make a pair of earphones to experience this technology yourself all we need to do is create vibrations from electrical signals, 
+					we can do that with motors or a piezo transducer. Motor works well but it bounces and vibrate so much and are 
+					big can’t fit well if we want to make a case for our earphone. So piezo transducer works much better, are small
+					 too and they are made for the purpose itself. 
+					 <br><br>
+				</p>	 
+					<strong>REQUIREMENT:</strong> 
+					<ol>
+					 <li><strong>6283 audio amplifier IC</strong></li>
+					 <li><strong>A pair of piezo transducers</strong></li>
+					 <li><strong>3.5mm jack for audio source</strong></li>
+					 <li><strong>4. 12v adapter or any other source</strong></li>
+					</ol> 	
+				<p class="lead" style="text-align:justify">	
+				
+					I am using 6283 audio amplifier IC because it is commonly used hence easily available in your old DVDs, 
+                    VCRS, etc. it is a high-power IC but as we are just doing this for test purpose, we can use this (Free IC 😉).
+					You can also use a PAM8403 audio amplifier IC having a 5V operating voltage as it is also very cheap and connection 
+					to this IC is easy too.
+					<br><br>
+				
+                    Another easy alternative can be the use of your old broken set of earphones and cut their ear tip stereo part out 
+					and replace them with the piezo transducer by connecting the two wires that comes out when you cut the earphone head 
+					apart as shown in sample picture below. And boom your bone conduction earphone is ready, now connect them to your phone 
+					and listen the music.
+					
+					<img src="images/nav5.jpg" alt="project ear phone" width="100%">
+					<br>
+					
+					So now as we have discussed some of the alternatives let’s get back to our bone conduction using 6283 audio IC 
+					<br><br>
+					
+                    Now let’s look at the circuit of how to connect all the parts to get our bone conduction earphone ready 
+					<img src="images/nav6.jpg" alt="project ear phone" width="100%">
+					<br>
+				So, with the above circuit you will get audio output at the piezo transducer now put the piezo transducer on any part 
+				of your skull and you will hear the sound.<br><br>
+				<strong>“Voila!!! you have your own pair of bone conduction earphone”</strong><br><br>
+				You can also place the piezo transducer on a surface and you will be able to hear the sound that’s what you can call any surface speaker.
+				As of now you will not get a good quality sound as are available in commercial one but as it is just for your first experience with bone conduction technology it is great.
+				let’s see what all crazy idea you can come up with using bone conduction.
+				Thank you to bear with this article hope you like it …😊
+                </p>
+
+
+				</div>
+				<br>
+				<h3>WANT TO WRITE BLOG CONTACT US NOW!!</h3>
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+			  </div>
+			  
+			   <div class="col-md-2 text-center" >
+               <img width="100" height="100" alt="Navnish" 
+			   src="https://media-exp1.licdn.com/dms/image/C5603AQGVg93hhWWemA/profile-displayphoto-shrink_200_200/0?e=1605744000&v=beta&t=j3Hy9IMkTAv3GammVBjfcr2bKXP3PuHx30JQk0uDYLg">
+				   
+				   <div>
+					  <a href="https://www.facebook.com/navnish.singh.129" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/navnish-singh-97717b196/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<h6>@Navnish</h6>
+					<p>Student|IoT enthusiast</p>
+				</div>				
+				
+		
+			   </div>
+			  
+			   
+            </div>
+			
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+
+	
+    <a href="#" class="bg-primary py-5 d-block"  >
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md10"><h2 class="text-white">Contact Us</h2></div>
+        </div>
+      </div>  
+    </a>
+    
+    <footer class="site-footer" id="contact-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="row">
+              <div class="col-md-5">
+                <h2 class="footer-heading mb-4">About Us</h2>
+                <p style="text-align:justify">WorkIndulge is the student community to provide state of the art solutions to industries and to indulge students to make projects , 
+				create awareness and to give out the box solutions for the betterment of society  </p>
+              </div>
+              <div class="col-md-3 ml-auto">
+                <h2 class="footer-heading mb-4">Quick Links</h2>
+                <ul class="list-unstyled">
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="#">Testimonials</a></li>
+                  <li><a href="#contact-section">Contact Us</a></li>
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h2 class="footer-heading mb-4">Follow Us</h2>
+                <a href="https://www.facebook.com/WorkIndulge-102114091560296" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                <a href="https://www.youtube.com/channel/UCgBMzDMaJ_38npmlcqwVKRA" class="pl-3 pr-3"><span class="icon-youtube"></span></a>
+                <a href="https://www.instagram.com/workindulge/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                <a href="https://www.linkedin.com/company/workindulge" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2 class="footer-heading mb-4">Contact Us For Business</h2>
+            <form action="#" method="post" class="footer-subscribe">
+              <div class="input-group mb-3">
+                <!--
+				<input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">-->
+                <div class="input-group-append">
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="border-top pt-5">
+            <p>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | WorkIndulge
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+      </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </footer>
+
+  </div> <!-- .site-wrap -->
+
+  <script src="../js/jquery-3.3.1.min.js"></script>
+  <script src="../js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="../js/jquery-ui.js"></script>
+  <script src="../js/popper.min.js"></script>
+  <script src="../js/bootstrap.min.js"></script>
+  <script src="../js/owl.carousel.min.js"></script>
+  <script src="../js/jquery.stellar.min.js"></script>
+  <script src="../js/jquery.countdown.min.js"></script>
+  <script src="../js/bootstrap-datepicker.min.js"></script>
+  <script src="../js/jquery.easing.1.3.js"></script>
+  <script src="../js/aos.js"></script>
+  <script src="../js/jquery.fancybox.min.js"></script>
+  <script src="../js/jquery.sticky.js"></script>
+
+  
+  <script src="../js/main.js"></script>
+    
+  </body>
+</html>
