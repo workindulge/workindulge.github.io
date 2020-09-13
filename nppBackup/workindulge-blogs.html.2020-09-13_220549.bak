@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>workindulge-projects</title>
+    <title>workindulge-blogs</title>
 	<link rel="shortcut icon" href="images/icon.png" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<meta name="keywords" content="workindulge,workindulge-projects,projects,mdetect,covid-19 quiz,aquabin,mask detection,mask,covid-19,quiz">
+	<meta name="keywords" content="BLOGS  , WorkIndulge">
 	<meta name="description" content="WorkIndulge Projects , Workindulge is a community of aspiring young minds to provide cutting edge solutions for the industry ,
 	to undertake turnkey projects and create awareness for the betterment of society">    
     
@@ -94,8 +94,8 @@
                 <li><a href="/index.html#about-section" class="nav-link">About Us</a></li>
                 <!--<li><a href="#team-section" class="nav-link">Team</a></li>-->
                 <li><a href="/index.html#services-section" class="nav-link">Services</a></li>
-                <li><a href="#" class="nav-link">Projects</a></li>
-				<li><a href="/workindulge-blogs.html" class="nav-link">Blogs</a></li>
+                <li><a href="" class="nav-link">Projects</a></li>
+				<li><a href="#" class="nav-link">Blogs</a></li>
                 <li><a href="#contact-section" class="nav-link">Contact</a></li>
               </ul>
             </nav>
@@ -111,103 +111,46 @@
 
 
 
-    <section class="site-section" id="project-section">
+
+    <section class="site-section" id="blog-section">
       <div class="container">
-        
-		<div class="row mb-5">
+        <div class="row mb-5">
           <div class="col-12 text-center">
-            <h3 class="section-sub-title">Projects</h3>
-            <h2 class="section-title mb-3">Projects@WorkIndulge</h2>
+            <h3 class="section-sub-title">Blog</h3>
+            <h2 class="section-title mb-3">Blogs@WorkIndulge</h2>
           </div>
         </div>
 
-	<div class="row">
-		
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
+        <div class="row">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
             <div class="h-entry">
-              <h2 class="font-size-regular"><a href="/projects/severity.html">KNOW YOUR SEVERITY</a></h2>
-			  <a href="https://severity.herokuapp.com/"  target="_blank"><img src="images/projects/severity.jpg" class="img-fluid" alt="mask detection"></a>
-              <div class="meta mb-4">
-			  <a href="https://www.linkedin.com/in/shashank-p-4b20b3196/">@Shanshank</a></a>
-			  <span class="mx-2">&bullet;</span> July 30, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="https://severity.herokuapp.com/"  target="_blank">USE WEBSITE</a></div>
-              <p>SAVING LIVES USING ML <a href="/projects/severity.html">read more</a></p>
-
+              <img src="blogs/images/nav3.jpg" alt="Image" class="img-fluid" style="height:180px;width:100%">
+              <h2 class="font-size-regular"><a href="/blogs/BONE-CONDUCTION.html">EXPERIENCE BONE CONDUCTION TECHNOLOGY IN FEW BUCKS</a></h2>
+              <div class="meta mb-4">Navnish Singh <span class="mx-2">&bullet;</span> Sept 13, 2020<span class="mx-2">&bullet;</span><span class="mx-2">5 min read</span></div>
+              <p>You all may have seen or heard about Bone conduction earphones, they are making their hypes now a days trying to replace traditional earphones as in bone 
+			  conduction you can hear your surroundings while listening to music.</p>
+              <p><a href="/blogs/BONE-CONDUCTION.html">Continue Reading...</a></p>
             </div> 
           </div>
 		  
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
             <div class="h-entry">
-		  
-              <h2 class="font-size-regular"><a href="/projects/sanitization-tunnel.html"  target="_blank" >SANITIZATION TUNNEL</a></h2>
-				<iframe width="560" height="340" class="img-fluid" src="https://www.youtube.com/embed/anBFvJ6x4ck" frameborder="0" 
-
-				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-              <div class="meta mb-4">Team WorkIndulge<span class="mx-2">&bullet;</span> July 30, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="/WORK-INDULGE/projects/sanitization-tunnel.html">CHECK OUT</a></div>
-              <p>How it works? <a href="/projects/sanitization-tunnel.html">read more</a></p>
-
-            </div> 
-          </div>
-		  
-
-
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
-            <div class="h-entry">
-		  
-              <h2 class="font-size-regular"><a href="/projects/aquabin.html"  target="_blank" >AQUABIN</a></h2>
-				<iframe width="560" height="340" class="img-fluid" src="https://www.youtube.com/embed/7NsVVNo4HXM" frameborder="0" 
-
-				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-              <div class="meta mb-4">Team Aquabin <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="/WORK-INDULGE/projects/aquabin.html">CHECK OUT</a></div>
-              <p>Aquabin: TRASH COLLECTING BOAT SYSTEM <a href="/projects/aquabin.html">read more</a></p>
-
-            </div> 
-          </div>
-          
-        </div>
-	
-	<div class="row">
-		
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
-            <div class="h-entry">
-              <h2 class="font-size-regular"><a href="/projects/mask-detection.html">M-DETECT</a></h2>
-			  <a href="https://workid.herokuapp.com"  target="_blank"><img src="images/projects/mdetect.jpg" class="img-fluid" alt="mask detection"></a>
-              <div class="meta mb-4">
-			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@ID</a> and <a href="https://www.linkedin.com/in/navnish-singh-97717b196/">@Navnish</a>
-			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
-			  <a href="https://workid.herokuapp.com"  target="_blank">USE WEBSITE</a></div>
-              <p>M-DETECT: MASK DETECTION SYSTEM INTEGRATED WITH WEBSITE <a href="/projects/mask-detection.html">read more</a></p>
-
-            </div> 
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
-            <div class="h-entry">
-
-              <h2 class="font-size-regular"><a href="/projects/covid19-quiz.html">COVID-19 QUIZ</a></h2>
-			  <a href="https://workid.herokuapp.com/quiz"  target="_blank"><img src="images/projects/quiz.jpg" class="img-fluid" alt="covid-19 quiz"></a>
-              <div class="meta mb-4">
-			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@ID</a> and <a href="https://www.linkedin.com/in/navnish-singh-97717b196/">@Navnish</a>
-			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span>
-			  <a href="https://workid.herokuapp.com/quiz"  target="_blank">TAKE QUIZ</a></div>
-              <p>TAKE COVID-19 QUIZ NOW <a href="/projects/covid19-quiz.html">read more</a></p>
-              <p><a href="#"></a></p>
-
+              <br><img src="blogs/images/shanky1.jpg" alt="Image" class="img-fluid"width="100%" > <br><br>
+              <h2 class="font-size-regular"><a href="/blogs/TRICK TO FIND BEST MODEL FOR YOUR DATA IN MACHINE LEARNING.html">TRICK TO FIND BEST MODEL FOR YOUR DATA IN MACHINE LEARNING</a></h2>
+              <div class="meta mb-4">Shashank Phogat<span class="mx-2">&bullet;</span> Sept 13, 2020<span class="mx-2">&bullet;</span><span class="mx-2">5 min read</span> </div>
+              <p>Choosing the best model, along with appropriate data splitting and hyperparameter tuning of model will help you to find best model with best parameters
+			  for your data in machine learning.Grid search CV library of sklearn can help you to do exactly that.</p>
+              <p><a href="/blogs/TRICK TO FIND BEST MODEL FOR YOUR DATA IN MACHINE LEARNING.html">Continue Reading...</a></p>
             </div>
           </div>
-		  		    
+  
           
         </div>
-
+		<div class="text-center">
+            <a href="#" class="btn btn-primary mr-2 mb-2">CHECK OUT BLOGS</a>
+        </div>
       </div>
     </section>
-
-
-
-
-
   
     <a href="#" class="bg-primary py-5 d-block"  >
       <div class="container">
