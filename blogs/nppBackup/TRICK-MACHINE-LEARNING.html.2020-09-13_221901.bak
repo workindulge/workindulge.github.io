@@ -159,8 +159,6 @@
 				   
 				   <img src="images/shanky3.jpg" width="100%"><br>
 				   <img src="images/shanky4.jpg" width="100%">
-				   <img src="images/shanky5.jpg" width="100%">
-				   <img src="images/shanky6.jpg" width="100%">
 				   
 				   <li>In the end we found that SVM classifier performs the best for the above dataset with parameters.</li>
 
