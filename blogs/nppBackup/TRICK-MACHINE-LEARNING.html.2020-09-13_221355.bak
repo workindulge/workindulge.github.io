@@ -144,21 +144,21 @@
 				    and its parameters for this data. </li>
 				   <li>Then we used .keys function in order to get overview of the digits data.</li>
 				   
-				   <img src="images/shanky1.jpg" width="100%">
+				   <img src="images/shanky1.jpg">
 				   
 				   <li>Now we imported all the models of classifications as our target value is of classification type. </li>
 				   <li>And then we created a dictionary which contains models as well as there parameters with different values
 				   that we need to try in grid search CV.</li>
 				   
-				   <img src="images/shanky2.jpg" width="100%">
+				   <img src="images/shanky2.jpg">
 				   
 				   <li>We the help of for loop and .items function we extracted model names, model functions and 
 				   there parameters on by one these in grid search CV  and we found the best accuracy scores for each of the model type 
 				   along with best parameters combinations. Then we added the best accuracy scores, model names and 
 				   best model parameters in scores list in order to review them.</li>
 				   
-				   <img src="images/shanky3.jpg" width="100%"><br>
-				   <img src="images/shanky4.jpg" width="100%">
+				   <img src="images/shanky3.jpg"><br>
+				   <img src="images/shanky4.jpg">
 				   
 				   <li>In the end we found that SVM classifier performs the best for the above dataset with parameters.</li>
 
