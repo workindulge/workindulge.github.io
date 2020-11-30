@@ -416,7 +416,7 @@
           <div class="col-md-4 col-lg-4 mb-4 mb-lg-4 text-center">
             <div class="h-entry">
               <h2 class="font-size-regular"><a href="/quiz/ds-quiz.html">Data Science Quiz-1</a></h2>
-			  <a href="/quizzes/ds-quiz.html"  target="_blank"><img src="images/quiz1.jpg" style="opacity:0.8" class="img-fluid" alt="mask detection"></a>
+			  <a href="/quiz/ds-quiz.html"  target="_blank"><img src="images/quiz1.jpg" style="opacity:0.8" class="img-fluid" alt="mask detection"></a>
               <div class="meta mb-4">
 			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@inderdeep</a></a>
 			  <span class="mx-2">&bullet;</span> November 30, 2020<span class="mx-2">&bullet;</span> 
