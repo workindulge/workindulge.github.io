@@ -40,30 +40,6 @@
 	  gtag('js', new Date());
 
 	  gtag('config', 'UA-169883677-1');
-	  
-	  document.onkeydown = function(e) {
-			if (e.ctrlKey && 
-				(e.keyCode === 67 || 
-				 e.keyCode === 86 || 
-				 e.keyCode === 85 || 
-				 e.keyCode === 117)) {
-				return false;
-			} else {
-				return true;
-			}
-	};
-	$(document).keypress("u",function(e) {
-	  if(e.ctrlKey)
-	  {
-	return false;
-	}
-	else
-	{
-	return true;
-	}
-	});
-	  
-	  
 	</script>    
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -923,15 +899,60 @@
   <script src="../js/main.js">  </script>
   <script>
 
-let question_no=1,limit=10,next=0,result=[0,0,0,0,0,0,0,0,0,0,0];function wrong(e){var t=e.slice(4,6)-1;1!=result[t]&&(result[t]=-1),
-document.getElementById(e).style.borderColor="tomato"}function right(e){var t=e.slice(4,6)-1;-1!=result[t]&&(result[t]=1),
-document.getElementById(e).style.borderColor="green",next=1}function calculate_score(){for(var e=0,t=0;t<11;t++)1==result[t]&&(e+=1);return e}
-function show(){if(question_no==limit)return document.getElementById("score").style.display="block",
-document.getElementById("question"+question_no).style.display="none",
-document.getElementById("next").innerHTML="",document.getElementById("score_board").innerHTML=10*calculate_score()+"/"+10*limit,null;
-1==next&&(document.getElementById("question"+question_no).style.display="none",
-question_no+=1,document.getElementById("question"+question_no).style.display="block",question_no==limit&&(document.getElementById("next").innerHTML="SUBMIT")
-,next=0)}
+
+ let question_no=1;
+ let limit=10;
+ let next=0;
+ let result = [0,0,0,0,0,0,0,0,0,0,0];
+ 
+ function wrong(id){
+
+  var qno = id.slice(4,6)-1;
+  if(result[qno]!=1)
+  {result[qno]=-1;}
+  document.getElementById(id).style.borderColor="tomato";
+  //next=0;
+ }
+  function right(id){
+  var qno = id.slice(4,6)-1;
+  if(result[qno]!=-1)
+  {result[qno]=1;}
+  document.getElementById(id).style.borderColor="green";
+  next=1;
+ }
+ 
+ function calculate_score(){
+  var score=0;
+  for(var i=0;i<11;i++){
+   if(result[i]==1){
+    score+=1;
+   }
+  }
+  return score;
+ }
+ 
+ function show(){
+    if(question_no==limit){
+	 document.getElementById('score').style.display="block";
+	 document.getElementById('question'+(question_no)).style.display="none";
+	 document.getElementById("next").innerHTML="";
+	 //document.getElementById("next").href="https://workindulge.github.io/";
+	 document.getElementById("score_board").innerHTML=""+(calculate_score()*10)+""+"/"+""+(limit*10);
+	 return null;
+	}else if(next==1){
+	  document.getElementById('question'+question_no).style.display="none";
+	  question_no+=1;
+	  document.getElementById('question'+question_no).style.display="block";
+	  
+	  if(question_no==limit){
+       document.getElementById("next").innerHTML="SUBMIT";
+      }
+	  next=0;
+	 }
+
+ }
+ 
+ 
  
     $(window).on('load',function(){
         $('#myModal').modal('show');
