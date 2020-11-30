@@ -135,7 +135,7 @@
 		  
           <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
             <div class="h-entry">
-              <br><img src="blogs/images/trick1.jpg" alt="Image" class="img-fluid"width="100%" > <br><br>
+              <br><img src="blogs/images/shanky1.jpg" alt="Image" class="img-fluid"width="100%" > <br><br>
               <h2 class="font-size-regular"><a href="/blogs/TRICK-MACHINE-LEARNING.html">TRICK TO FIND BEST MODEL FOR YOUR DATA IN MACHINE LEARNING</a></h2>
               <div class="meta mb-4">Shashank Phogat<span class="mx-2">&bullet;</span> Sept 13, 2020<span class="mx-2">&bullet;</span><span class="mx-2">5 min read</span> </div>
               <p>Choosing the best model, along with appropriate data splitting and hyperparameter tuning of model will help you to find best model with best parameters
