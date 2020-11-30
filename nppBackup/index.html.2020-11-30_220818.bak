@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>WorkIndulge</title>
+	<link rel="shortcut icon" href="images/icon.png" alt="workindulge"/>
+	
+	<meta charset="utf-8">
+	<meta name="keywords" content="workindulge,work indulge,indulge,work,student community,jobs,mdetect,covid-19 quiz,aquabin,mask detection,mask">
+	<meta name="description" content="WorkIndulge is a community of aspiring young minds to provide cutting edge solutions for the industry ,
+	to undertake turnkey projects and create awareness for the betterment of society. Sanitization tunnel , mask detection , quiz and severity measure and much more">
+	
+	
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/style.css">
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169883677-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-169883677-1');
+	</script>
+	
+	<style>
+	myDiv {
+  -ms-transform: rotate(20deg); /* IE 9 */
+  transform: rotate(20deg); /* Standard syntax */
+}
+	</style>
+
+    
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+   
+    <div class="top-bar py-3 bg-light" id="home-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-6 text-left">
+            <ul class="social-media">
+              <li><a href="https://www.facebook.com/WorkIndulge-102114091560296" class="p-2"><span class="icon-facebook"></span></a></li>
+              <li><a href="https://www.youtube.com/channel/UCgBMzDMaJ_38npmlcqwVKRA" class="p-2"><span class="icon-youtube"></span></a></li>
+              <li><a href="https://www.instagram.com/workindulge/" class="p-2"><span class="icon-instagram"></span></a></li>
+              <li><a href="https://www.linkedin.com/company/workindulge" class="p-2"><span class="icon-linkedin"></span></a></li>
+            </ul>
+          </div>
+          <div class="col-6">
+            <p class="mb-0 float-right">
+              <span><a href="#"><span class="icon-envelope mr-2"></span><span class="d-none d-lg-inline-block">workindulgeteam@gmail.com</span></a></span>
+            </p>
+            
+          </div>
+        </div>
+      </div> 
+    </div>
+
+    <header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+          
+          <div class="col-6 col-xl-2">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0"><img src="images/workindulge.png" width="200" height="50" alt="workindulge">
+			<span class="text-primary"></span> </a></h1>
+          </div>
+          <div class="col-12 col-md-10 d-none d-xl-block">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                <li><a href="#home-section" class="nav-link">Home</a></li>
+                <li><a href="#about-section" class="nav-link">About Us</a></li>
+                <!--<li><a href="#team-section" class="nav-link">Team</a></li>-->
+                <li><a href="#services-section" class="nav-link">Services</a></li>
+                <li><a href="#project-section" class="nav-link">Projects</a></li>
+                <li><a href="#blog-section" class="nav-link">Blogs</a></li>
+				<li><a href="#quiz-section" class="nav-link">Quizzes</a></li>
+                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+
+
+          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
+
+        </div>
+      </div>
+      
+    </header>
+
+  
+     
+    <div class="site-blocks-cover overlay" style="background-image: url(images/back.jpg);" data-aos="fade">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+                        
+            <div class="row mb-4">
+              <div class="col-md-12" align="center">
+                <!-- <h1>WorkIndulge</h1> 
+				-->
+				<br/><br/><br/>
+				<img src="images/workindulge.png" width="45%" alt="workindulge" style="transform: rotate(-6deg);">
+				<br/><br/>
+				<h3 style="transform: rotate(-6deg);color:black">One <span style="color:tomato">stop</span> for all your projects !</h3>
+                <!--<p class="">Photo by JESHOOTS.COM on Unsplash</p>-->
+				<br/>
+                <div style="transform: rotate(-6deg);">
+                  <a style=" margin-left:6%"href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>  
+
+
+    <div class="site-section" id="about-section">
+      <div class="container">
+        <div class="row align-items-lg-center">
+          <div class="col-md-6 mb-5 mb-lg-0 position-relative">
+            <img src="images/about_1.jpg" class="img-fluid" alt="Image">
+            <div class="experience">
+              <span class="year">Student Community</span>
+              <span class="caption">Always Ready for work!</span>
+            </div>
+          </div>
+          <div class="col-md-5 ml-auto">
+            <h3 class="section-sub-title"></h3>
+            <h2 class="section-title mb-3">About Us</h2>
+            <p class="mb-4" style="text-align:justify">
+			WorkIndulge is a community of aspiring young minds to provide cutting edge solutions for the industry , 
+			to undertake turnkey projects and create awareness for the betterment of society.
+			Our Aim is to provide a platform to bridge the gap between  industry and students by encouraging students to participate and
+			contribute their projects & ideas.
+			</p>
+            <p><!--<a href="#" class="btn btn-primary btn-black--hover">Learn More</a>--></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <section class="site-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12">
+            <h3 class="section-sub-title"></h3>
+            <h2 class="section-title mb-3">How it Works?</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 col-lg-4">
+            <div class=" box-with-humber">
+              <h2 class="text-black">INNOVATE</h2>
+              <p class="mb-4" style="text-align:justify">Students in our community have a passion to make changes in something established, 
+			  especially by introducing new methods, ideas, or products.
+                 			  
+			  </p>
+              <ul class="list-unstyled ul-check primary">
+                <li>Research</li>
+                <li>Innovate</li>
+                <li>Validate</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class=" box-with-humber">
+              <h2 class="text-black">CREATE</h2>
+              <p class="mb-4" style="text-align:justify">Ideas are just idea until you convert them into end products</p>
+              <ul class="list-unstyled ul-check primary">
+                <li>Design</li>
+                <li>Develop</li>
+                <li>Test</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class=" box-with-humber">
+              <h2 class="text-black">DELIVER</h2>
+              <p class="mb-4" style="text-align:justify">Our main objective is to take all innovations to the end users</p>
+              <ul class="list-unstyled ul-check primary">
+                <li>Promote</li>
+                <li>Connect</li>
+                <li>Upgrade</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    
+
+    <section class="site-section border-bottom bg-light" id="services-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12 text-center">
+            <h3 class="section-sub-title"></h3>
+            <h2 class="section-title mb-3">Our Services</h2>
+          </div>
+        </div>
+        <div class="row align-items-stretch" >
+		
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary icon-web" style="font-size:100px"></span></div>
+				<h3>Web Development</h3>
+              </div>
+            </div>
+          </div>
+		  
+		
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary icon-mobile" style="font-size:100px"></span></div>
+				<h3>Mobile Development</h3>
+              </div>
+            </div>
+          </div>
+		  
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary fa fa-robot" style="font-size:100px"></span></div>
+				<h3>Artificial Intelligence</h3>
+              </div>
+            </div>
+          </div>
+		  
+		
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary fa fa-chart-bar" style="font-size:100px"></span></div>
+				<h3>Data Science</h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary fas fa-globe" style="font-size:100px"></span></div>
+				<h3>Embedded Systems and IoT</h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+            <div class="unit-4 " >
+              <div align="center">
+                <div><span class="text-primary 	fas fa-code" style="font-size:100px"></span></div>
+				<h3>Technical Support</h3>
+              </div>
+            </div>
+          </div>		  
+
+        </div>
+      </div>
+    </section>
+
+
+    <section class="site-section" id="project-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12 text-center">
+            <h3 class="section-sub-title"></h3>
+            <h2 class="section-title mb-3">Projects</h2>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
+            <div class="h-entry">
+		  
+              <h2 class="font-size-regular"><a href="/projects/sanitization-tunnel.html"  target="_blank" >SANITIZATION TUNNEL</a></h2>
+				<iframe width="560" height="340" class="img-fluid" src="https://www.youtube.com/embed/anBFvJ6x4ck" frameborder="0" 
+
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+              <div class="meta mb-4">Team WorkIndulge<span class="mx-2">&bullet;</span> July 30, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="/WORK-INDULGE/projects/sanitization-tunnel.html">CHECK OUT</a></div>
+              <p>How it works? <a href="/projects/sanitization-tunnel.html">read more</a></p>
+
+            </div> 
+          </div>
+		
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
+            <div class="h-entry">
+
+              <h2 class="font-size-regular"><a href="/projects/mask-detection.html">M-DETECT</a></h2>
+			  <a href="https://workid.herokuapp.com"  target="_blank"><img src="images/projects/mdetect.jpg" class="img-fluid" alt="mask detection"></a>
+              <div class="meta mb-4">
+			  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/">@ID</a> and <a href="https://www.linkedin.com/in/navnish-singh-97717b196/">@Navnish</a>
+			  <span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="https://workid.herokuapp.com"  target="_blank">USE WEBSITE</a></div>
+              <p>M-DETECT: MASK DETECTION SYSTEM INTEGRATED WITH WEBSITE <a href="/projects/mask-detection.html">read more</a></p>
+		  
+            </div> 
+          </div>
+		  
+			  
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 text-center">
+            <div class="h-entry">
+		  
+              <h2 class="font-size-regular"><a href="/projects/aquabin.html"  target="_blank" >AQUABIN</a></h2>
+				<iframe width="560" height="315" class="img-fluid" src="https://www.youtube.com/embed/7NsVVNo4HXM" frameborder="0" 
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+              <div class="meta mb-4">Team Aquabin<span class="mx-2">&bullet;</span> June 07, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="/projects/aquabin.html">CHECK OUT</a></div>
+              <p>Aquabin: TRASH COLLECTING BOAT SYSTEM <a href="/projects/aquabin.html">read more</a></p>
+
+              <p><a href="#"></a></p>
+            </div> 
+          </div>
+          
+        </div>
+		<div class="text-center">
+            <a href="/workindulge-projects.html" class="btn btn-primary mr-2 mb-2">GO TO PROJECTS</a>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="site-section" id="blog-section" >
+      <div class="container">
+        <div class="row mb-3">
+          <div class="col-12 text-center">
+            <h2 class="section-title mb-3">Blogs</h2>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="blogs/images/nav3.jpg" alt="Image" class="img-fluid" style="height:180px;width:100%">
+              <h2 class="font-size-regular"><a href="/blogs/BONE-CONDUCTION.html">EXPERIENCE BONE CONDUCTION TECHNOLOGY IN FEW BUCKS</a></h2>
+              <div class="meta mb-4">Navnish Singh <span class="mx-2">&bullet;</span> Sept 13, 2020<span class="mx-2">&bullet;</span><span class="mx-2">5 min read</span></div>
+              <p>You all may have seen or heard about Bone conduction earphones, they are making their hypes now a days trying to replace traditional earphones as in bone 
+			  conduction you can hear your surroundings while listening to music.</p>
+              <p><a href="/blogs/BONE-CONDUCTION.html">Continue Reading...</a></p>
+            </div> 
+          </div>
+		  
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <br><img src="blogs/images/shanky1.jpg" alt="Image" class="img-fluid"width="100%" > <br><br>
+              <h2 class="font-size-regular"><a href="/blogs/TRICK-MACHINE-LEARNING.html">TRICK TO FIND BEST MODEL FOR YOUR DATA IN MACHINE LEARNING</a></h2>
+              <div class="meta mb-4">Shashank Phogat<span class="mx-2">&bullet;</span> Sept 13, 2020<span class="mx-2">&bullet;</span><span class="mx-2">5 min read</span> </div>
+              <p>Choosing the best model, along with appropriate data splitting and hyperparameter tuning of model will help you to find best model with best parameters
+			  for your data in machine learning.Grid search CV library of sklearn can help you to do exactly that.</p>
+              <p><a href="/blogs/TRICK-MACHINE-LEARNING.html">Continue Reading...</a></p>
+            </div>
+          </div>
+  
+          
+        </div>
+		<div class="text-center">
+            <a href="/workindulge-blogs.html" class="btn btn-primary mr-2 mb-2">CHECK OUT BLOGS</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="site-section" id="project-section">
+      <div class="container">
+        
+		<div class="row mb-5">
+          <div class="col-12 text-center">
+
+            <h2 class="section-title mb-3">Quizzes@WorkIndulge</h2>
+          </div>
+        </div>
+
+	<div class="row">
+		
+          <div class="col-md-12 col-lg-4 mb-4 mb-lg-4 text-center">
+            <div class="h-entry">
+              <h2 class="font-size-regular"><a href="/projects/severity.html">Data Science Quiz</a></h2>
+			  <a href="https://severity.herokuapp.com/"  target="_blank"><img src="images/projects/severity.jpg" class="img-fluid" alt="mask detection"></a>
+              <div class="meta mb-4">
+			  <a href="https://www.linkedin.com/in/shashank-p-4b20b3196/">@ID</a></a>
+			  <span class="mx-2">&bullet;</span> November 30, 2020<span class="mx-2">&bullet;</span> 
+			  <a href="https://severity.herokuapp.com/"  target="_blank">Take Quiz</a></div>
+<!--               <p>SAVING LIVES USING ML <a href="/projects/severity.html">read more</a></p>
+ -->
+            </div> 
+          </div>
+		  
+    
+        </div>
+
+
+      </div>
+    </section>
+
+
+   
+    
+	
+    <a href="#" class="bg-primary py-5 d-block"  >
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md10"><h2 class="text-white">Contact Us</h2></div>
+        </div>
+      </div>  
+    </a>
+    
+    <footer class="site-footer" id="contact-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="row">
+              <div class="col-md-5">
+                <h2 class="footer-heading mb-4">About Us</h2>
+                <p style="text-align:justify">WorkIndulge is a community of aspiring young minds to provide cutting edge solutions for the industry , 
+			to undertake turnkey projects and create awareness for the betterment of society.
+			Our Aim is to provide a platform to bridge the gap between  industry and students by encouraging students to participate and
+			contribute their projects & ideas.</p>
+              </div>
+              <div class="col-md-3 ml-auto ">
+                <h2 class="footer-heading mb-4">Quick Links</h2>
+                <ul class="list-unstyled">
+                  <li><a href="#about-section">About Us</a></li>
+                  <li><a href="#services-section">Services</a></li>
+                  <li><a href="#project-section">Projects</a></li>
+                  <li><a href="#contact-section">Contact Us</a></li>
+                </ul>
+              </div>
+              <div class="col-md-3  text-center">
+                <h2 class="footer-heading mb-4">Follow Us</h2>
+                <a href="https://www.facebook.com/WorkIndulge-102114091560296" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                <a href="https://www.youtube.com/channel/UCgBMzDMaJ_38npmlcqwVKRA" class="pl-3 pr-3"><span class="icon-youtube"></span></a>
+                <a href="https://www.instagram.com/workindulge/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                <a href="https://www.linkedin.com/company/workindulge" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3  text-center">
+            <h2 class="footer-heading mb-4">Contact Us For Business</h2>
+            <form action="#" method="post" class="footer-subscribe">
+              <div class="input-group mb-3 text-center">
+                <!--
+				<input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">-->
+                <div class="input-group-append " >
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="border-top pt-5">
+            <p>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | WorkIndulge
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+      </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </footer>
+
+  </div> <!-- .site-wrap -->
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+
+  
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>

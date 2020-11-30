@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>aquabin-workindulge</title>
+	<link rel="shortcut icon" href="../images/icon.png" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<meta name="keywords" content="workindulge,aquabin,ai boat,self motion planning,iot boat">
+	<meta name="description" content="AI , IOT and Remote Access enabled smart boat which runs on expert system to Detect , Maneuver and Collect floating trash over the river bodies using Computer Vision ,
+	self motion planning , monitoring AI system to Self Train over unseen data , connected with easy to use game like UI dashboard.">        
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
+    <link rel="stylesheet" href="../fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/jquery-ui.css">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="../css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="../css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="../fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="../css/aos.css">
+
+    <link rel="stylesheet" href="../css/style.css">
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169883677-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-169883677-1');
+	</script>    
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+   
+    <div class="top-bar py-3 bg-light" id="home-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-6 text-left">
+            <ul class="social-media">
+              <li><a href="https://www.facebook.com/WorkIndulge-102114091560296" class="p-2"><span class="icon-facebook"></span></a></li>
+              <li><a href="https://www.youtube.com/channel/UCgBMzDMaJ_38npmlcqwVKRA" class="p-2"><span class="icon-youtube"></span></a></li>
+              <li><a href="https://www.instagram.com/workindulge/" class="p-2"><span class="icon-instagram"></span></a></li>
+              <li><a href="https://www.linkedin.com/company/workindulge" class="p-2"><span class="icon-linkedin"></span></a></li>
+            </ul>
+          </div>
+          <div class="col-6">
+            <p class="mb-0 float-right">
+              <span><a href="#"><span class="icon-envelope mr-2"></span><span class="d-none d-lg-inline-block">workindulgeteam@gmail.com</span></a></span>
+            </p>
+            
+          </div>
+        </div>
+      </div> 
+    </div>
+
+   <header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+          
+          <div class="col-6 col-xl-2">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0"><img src="../images/workindulge.png" width="200" height="50" alt="WorkIndulge">
+			<span class="text-primary"></span> </a></h1>
+          </div>
+          <div class="col-12 col-md-10 d-none d-xl-block">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                <li><a href="../index.html#home-section" class="nav-link">Home</a></li>
+                <li><a href="../index.html#about-section" class="nav-link">About Us</a></li>
+                <li><a href="../index.html#services-section" class="nav-link">Services</a></li>
+                <li><a href="../workindulge-projects.html" class="nav-link">Projects</a></li>
+                <!--<li><a href="../index.html#blog-section" class="nav-link">Blogs</a></li>-->
+				<li><a href="../workindulge-blogs.html" class="nav-link">Blogs</a></li>
+				<li><a href="../workindulge-quizzes.html" class="nav-link">Quizzes</a></li>
+                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+
+
+          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
+
+        </div>
+      </div>
+      
+    </header>
+
+
+  
+  
+    <section class="site-section" style="margin-top:5%" id="ctn">
+      <div class="container">
+        <div class="row ">
+          
+          <div class="col-md-5 ml-auto mb-5 order-md-2" data-aos="fade">
+	
+          </div>
+          <div class="col-md-12 order-md-1" data-aos="fade">
+		  
+		
+            <div class="row">              
+
+              <div class="col-md-9 mb-4" >    
+			    
+
+			    <h1>AQUABIN</h1> 
+			    <div align="center"><img src="../images/projects/aquabin.JPG" class="img-fluid" alt="aquabin"></div>
+				<p class="lead" style="text-align:justify">
+					AI , IOT and Remote Access enabled system to Detect , Maneuver and Collect floating trash over
+					the water bodies using Computer Vision and self motion planning with monitoring report generating system connected 
+					with easy to use game like UI.<br/><br/>
+
+					According to the ocean index report <b><i>260 aquatic species die</i></b> because of water pollution in the world and about 30% of 80% of 1.5 metric tonne  of open waste in India is left in the water bodies according to india today report which become a threat to our nature.
+					And affects the life of animals, humans , tourism and the economy of our country. And it is very difficult to clean the floating trash manually from small urban drains, streams, rivers, lakes and estuaries , and have life hazards and lack of proper technology.<br/>
+                    <br/>
+					To overcome this problem we come with project <b>AQUABIN</b> which is a <b>IoT and AI Expert System</b> compatible with any Trash collecting boat which can be configured with the minor changes  and  need almost no human intervention on the site. <br/>
+                    <br/> 
+					We found that most of the focus in this field is on design of the physical body of the boat and boat operator is always required onsite , we found robotic boats but they are expensive as they use GPS, sensors , Floating Check Points , Complete Analysis of the water bodies and lags in Motion Planning and trash detection which reduce their accuracy and speed.
+					To overcome the problem of motion planning and to make a system at low cost and with better accuracy we developed the Expert system, which does this task automatically with computer vision and self motion panning
+
+                    <br/><br/>
+					Due to <b>lockdown</b> we are not able to build the proper body of the boat so we tested our model on the  wheels , we developed the dummy car with the help of wooden body, webcam, arduino boat ,DC gear motor and other hardware , to test our IoT control system and android application both connected via cloud API 
+					For AI code we developed an simulator to test the working .<br/>
+                    <br/> 
+					System works under 2 modes - <b>Manual and AI</b> 
+                     <br/><br/>
+					<b>1. Manual</b><br/>
+					Under the manual mode your app will get connected to the cloud API and user authentication ,authorization and validation will done.
+					After that you will get a live stream from the boat camera to your app dashboard. So that you can control your boat in real time to detect and collect the trash. Once the bucket gets full or battery status gets low you will get a notification to charge the boat or to empty the trash bucket
+					. If you are at a remote location and internet connection is not available you can connect boat over wifi module also but due  to low bandwidth you will not get a live stream from the boat.
+                    <br/> <br/>
+					<b>2. AI</b><br/>
+					In AI mode , the boat will start detecting the trash via Computer Vision and self motion planning and give instruction to the boat controller and keep the track of each movement and display it in form of monitoring records. Modes of AI depend upon the water bodies.
+					You can see working of the boat in a 2D top view simulator.
+					
+                </p>
+				<h3>Get in touch with the team for more information!</h3>
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+			  </div>
+			  
+			   <div class="col-md-3 text-center" >
+			    <h5>PROJECT VIDEO</h5>
+				<iframe class="img-fluid" style="" src="https://www.youtube.com/embed/7NsVVNo4HXM" frameborder="0" 
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				
+			    <h5>TEAM LEAD</h5>
+				<div class="text-center" >
+				
+				   <img width="80" height="80" alt="ID" src="../images/team/inderdeep.jpg">
+				   <div>
+					  <a href="https://www.facebook.com/inderdeep.singh.92798072" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/inderdeep-singh-4a01a1182/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+				    <p>@Inderdeep<br/>Student|AI & Integration</p> 
+					
+				   <img width="80" height="80" alt="Navnish" src="../images/team/navnish.jpg">
+				   <div>
+					  <a href="https://www.facebook.com/navnish.singh.129" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/navnish-singh-97717b196/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>@Navnish<br/>Student|IoT control system</p>
+
+				   <img width="80" height="80" alt="Tanujdeep" src="../images/team/tanujdeep.jpg">
+				   <div>
+					  <a href="https://www.facebook.com/tanujdeep.talwar" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/tanujdeep-singh-39815a18a/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>@Tanujdeep<br/>Student|Android & Web</p>					
+					
+					<h5>TECH SUPPORT</h5>
+
+				   <img width="80" height="80" alt="Yash Verma" src="https://media-exp1.licdn.com/dms/image/C5103AQFanMVkkAZ4Xg/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=d4Kyl8K_s63MuJxsoh2T00WprIODlblYDM0-q9fJsB0">
+				   <div>
+					  <a href="https://www.facebook.com/yashgold.smith" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/in/yashverma99/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+				    <p>@YashVerma<br/>Student|UI</p> 
+					
+				   <img width="80" height="80" alt="Shahshank Phogat" src="https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/87843508_2759145647501144_7503498399451185152_o.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=l5eWj1QlnKoAX_DrN3f&_nc_ht=scontent.fdel3-1.fna&oh=48e59d10519e21412746da1bb96229f2&oe=5F30C98B">
+				   <div>
+					  <a href="https://www.facebook.com/shashank.phogat.3" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>@Shashank<br/>Student|IoT</p>
+
+				   <img width="80" height="80" alt="Prajwal" src="https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/48052363_585093351912657_8363013710062551040_n.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=oomE95xdLeMAX-2e7So&_nc_ht=scontent.fdel3-1.fna&oh=a0f3f8e6d3a2c2b5443c1627d5e732ed&oe=5F30B130">
+				   <div>
+					  <a href="https://www.facebook.com/prajjwal.tyagi.357" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>Prajwal<br/>Student|Boat Design</p>
+
+				   <img width="80" height="80" alt="Amarpreet" src="../images/user.png">
+				   <div>
+					  <a href="https://www.facebook.com/WorkIndulge-102114091560296/" class="p-2"><span class="icon-facebook"></span></a>
+					  <a href="https://www.linkedin.com/company/workindulge/" class="p-2"><span class="icon-linkedin"></span></a>
+				   </div>
+					<p>@Amarpreet<br/>Student|Boat Design</p>					
+					
+				</div>	
+		
+			   </div>
+			  
+			   
+            </div>
+			
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+
+	
+    <a href="#" class="bg-primary py-5 d-block"  >
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md10"><h2 class="text-white">Contact Us</h2></div>
+        </div>
+      </div>  
+    </a>
+    
+    <footer class="site-footer" id="contact-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="row">
+              <div class="col-md-5">
+                <h2 class="footer-heading mb-4">About Us</h2>
+                <p style="text-align:justify">WorkIndulge is the student community to provide state of the art solutions to industries and to indulge students to make projects , 
+				create awareness and to give out the box solutions for the betterment of society  </p>
+              </div>
+              <div class="col-md-3 ml-auto">
+                <h2 class="footer-heading mb-4">Quick Links</h2>
+                <ul class="list-unstyled">
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="#">Testimonials</a></li>
+                  <li><a href="#contact-section">Contact Us</a></li>
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h2 class="footer-heading mb-4">Follow Us</h2>
+                <a href="https://www.facebook.com/WorkIndulge-102114091560296" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                <a href="https://www.youtube.com/channel/UCgBMzDMaJ_38npmlcqwVKRA" class="pl-3 pr-3"><span class="icon-youtube"></span></a>
+                <a href="https://www.instagram.com/workindulge/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                <a href="https://www.linkedin.com/company/workindulge" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2 class="footer-heading mb-4">Contact Us For Business</h2>
+            <form action="#" method="post" class="footer-subscribe">
+              <div class="input-group mb-3">
+                <!--
+				<input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">-->
+                <div class="input-group-append">
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link" class="btn btn-primary mr-2 mb-2">CONTACT NOW</a>
+
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="border-top pt-5">
+            <p>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | WorkIndulge
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+      </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </footer>
+
+  </div> <!-- .site-wrap -->
+
+  <script src="../js/jquery-3.3.1.min.js"></script>
+  <script src="../js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="../js/jquery-ui.js"></script>
+  <script src="../js/popper.min.js"></script>
+  <script src="../js/bootstrap.min.js"></script>
+  <script src="../js/owl.carousel.min.js"></script>
+  <script src="../js/jquery.stellar.min.js"></script>
+  <script src="../js/jquery.countdown.min.js"></script>
+  <script src="../js/bootstrap-datepicker.min.js"></script>
+  <script src="../js/jquery.easing.1.3.js"></script>
+  <script src="../js/aos.js"></script>
+  <script src="../js/jquery.fancybox.min.js"></script>
+  <script src="../js/jquery.sticky.js"></script>
+
+  
+  <script src="../js/main.js"></script>
+    
+  </body>
+</html>
