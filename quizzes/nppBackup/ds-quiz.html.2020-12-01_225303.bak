@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>ds-quiz-1</title>
+    <title>ds-quiz</title>
 	<link rel="shortcut icon" href="../images/icon.png" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -584,7 +584,7 @@
 						<div class="card options" id="O4_Q7" onclick="wrong('O4_Q7')" >
 						  <div class="card-header">
 							<div class="collapsed card-link" data-toggle="collapse" >
-							  <!-- OPTION 4-->  Decision boundaries
+							  <!-- OPTION 4-->  Decision boundarie
 							</div>
 						  </div>
 						</div> 
