@@ -1,0 +1,1297 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>
+    Cricket Trivia Game | WorkIndulge | Sport India Expo 2026
+  </title>
+
+  <meta
+    name="description"
+    content="Join the Cricket Trivia Game by WorkIndulge at The 13th Sport India Expo 2026, from 20–22 August 2026 at Bharat Mandapam, Pragati Maidan, New Delhi."
+  />
+
+  <meta
+    name="keywords"
+    content="Cricket Trivia Game, WorkIndulge, Sport India Expo 2026, Cricket Quiz Delhi, Bharat Mandapam, Pragati Maidan"
+  />
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+      background: #ffffff;
+      color: #111111;
+      line-height: 1.6;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    /* =====================================================
+       HERO
+    ===================================================== */
+
+    .hero {
+      width: 100%;
+      color: #ffffff;
+      background:
+        linear-gradient(
+          135deg,
+          #050505 0%,
+          #171717 55%,
+          #2b2b2b 100%
+        );
+      padding: 70px 0;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 50px;
+      align-items: center;
+    }
+
+    .hero-image {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      border-radius: 16px;
+      overflow: hidden;
+      position: relative;
+      background: #111111;
+      box-shadow:
+        0 10px 35px rgba(0, 0, 0, 0.35);
+    }
+
+    .hero-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .hero-content {
+      max-width: 600px;
+    }
+
+    .eyebrow {
+      display: block;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      color: #cccccc;
+      margin-bottom: 10px;
+    }
+
+    .hero-title {
+      font-size: 72px;
+      line-height: 0.95;
+      font-weight: 900;
+      margin-bottom: 20px;
+    }
+
+    .hero-subtitle {
+      font-size: 25px;
+      font-weight: 700;
+      color: #eeeeee;
+      margin-bottom: 18px;
+    }
+
+    .hero-description {
+      font-size: 17px;
+      color: #cccccc;
+      line-height: 1.7;
+      margin-bottom: 25px;
+    }
+
+    .event-info {
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+      margin-bottom: 28px;
+    }
+
+    .event-info p {
+      font-size: 15px;
+      font-weight: 600;
+      color: #ffffff;
+    }
+
+    .buttons {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 14px 28px;
+      border-radius: 30px;
+      font-size: 14px;
+      font-weight: 800;
+      transition: 0.25s ease;
+      cursor: pointer;
+    }
+
+    .btn-primary {
+      background: #ffffff;
+      color: #000000;
+      border: 2px solid #ffffff;
+    }
+
+    .btn-primary:hover {
+      background: #eeeeee;
+      transform: translateY(-2px);
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: #ffffff;
+      border: 2px solid #ffffff;
+    }
+
+    .btn-outline:hover {
+      background: rgba(255, 255, 255, 0.1);
+      transform: translateY(-2px);
+    }
+
+    /* =====================================================
+       EVENT CARDS
+    ===================================================== */
+
+    .event-cards {
+      margin-top: -30px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .cards-grid {
+      display: grid;
+      grid-template-columns:
+        repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .info-card {
+      background: #ffffff;
+      border-radius: 14px;
+      padding: 28px;
+      text-align: center;
+      box-shadow:
+        0 5px 25px rgba(0, 0, 0, 0.12);
+    }
+
+    .info-icon {
+      font-size: 36px;
+      margin-bottom: 8px;
+    }
+
+    .info-card h3 {
+      font-size: 19px;
+      margin-bottom: 5px;
+    }
+
+    .info-card p {
+      font-size: 14px;
+      color: #666666;
+    }
+
+    /* =====================================================
+       SECTION
+    ===================================================== */
+
+    .section {
+      padding: 70px 0;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .section-header h2 {
+      font-size: 38px;
+      font-weight: 800;
+      display: inline-block;
+    }
+
+    .section-line {
+      width: 60px;
+      height: 4px;
+      background: #111111;
+      border-radius: 4px;
+      margin: 10px auto 0;
+    }
+
+    /* =====================================================
+       EVENT TITLE
+    ===================================================== */
+
+    .event-title {
+      text-align: center;
+      padding-top: 65px;
+    }
+
+    .event-title h2 {
+      font-size: 36px;
+      font-weight: 800;
+    }
+
+    .event-title p {
+      margin-top: 8px;
+      color: #555555;
+      font-size: 19px;
+    }
+
+    /* =====================================================
+       HIGHLIGHT
+    ===================================================== */
+
+    .highlight {
+      max-width: 850px;
+      margin: 50px auto 0;
+      padding: 40px;
+      border-radius: 16px;
+      background: #f5f5f5;
+      text-align: center;
+    }
+
+    .highlight h2 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+
+    .highlight p {
+      color: #444444;
+      margin-top: 8px;
+    }
+
+    .highlight .price {
+      font-size: 21px;
+      font-weight: 800;
+      margin-top: 18px;
+    }
+
+    .highlight .gift {
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    /* =====================================================
+       HOW TO PLAY
+    ===================================================== */
+
+    .steps-grid {
+      display: grid;
+      grid-template-columns:
+        repeat(3, 1fr);
+      gap: 24px;
+    }
+
+    .step-card {
+      border: 1px solid #eeeeee;
+      border-radius: 14px;
+      padding: 28px;
+      background: #ffffff;
+      box-shadow:
+        0 3px 15px rgba(0, 0, 0, 0.08);
+    }
+
+    .step-number {
+      font-size: 13px;
+      font-weight: 900;
+      color: #777777;
+      letter-spacing: 1px;
+    }
+
+    .step-card h3 {
+      font-size: 20px;
+      margin: 8px 0;
+    }
+
+    .step-card p {
+      font-size: 15px;
+      color: #666666;
+      line-height: 1.7;
+    }
+
+    /* =====================================================
+       SPECIAL OUTCOMES
+    ===================================================== */
+
+    .special-section {
+      background: #fafafa;
+    }
+
+    .special-grid {
+      display: grid;
+      grid-template-columns:
+        repeat(3, 1fr);
+      gap: 24px;
+    }
+
+    .special-card {
+      background: #ffffff;
+      border-radius: 14px;
+      padding: 32px;
+      text-align: center;
+      box-shadow:
+        0 3px 15px rgba(0, 0, 0, 0.07);
+    }
+
+    .special-icon {
+      font-size: 40px;
+      margin-bottom: 8px;
+    }
+
+    .special-card h3 {
+      font-size: 21px;
+      margin-bottom: 8px;
+    }
+
+    .special-card p {
+      color: #666666;
+      font-size: 15px;
+    }
+
+    /* =====================================================
+       GUESS RULE
+    ===================================================== */
+
+    .guess-box {
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 40px;
+      border: 2px solid #111111;
+      border-radius: 16px;
+      text-align: center;
+    }
+
+    .guess-icon {
+      font-size: 40px;
+      margin-bottom: 8px;
+    }
+
+    .guess-box h2 {
+      font-size: 28px;
+    }
+
+    .guess-box > p {
+      color: #555555;
+      margin-top: 10px;
+    }
+
+    .guess-results {
+      display: grid;
+      grid-template-columns:
+        repeat(2, 1fr);
+      gap: 25px;
+      margin-top: 30px;
+      padding-top: 30px;
+      border-top: 1px solid #eeeeee;
+    }
+
+    .guess-result h3 {
+      margin: 8px 0;
+    }
+
+    .guess-result p {
+      color: #666666;
+      font-size: 14px;
+    }
+
+    /* =====================================================
+       FREE ENTRY
+    ===================================================== */
+
+    .free-entry {
+      background: #111111;
+      color: #ffffff;
+      border-radius: 18px;
+      padding: 55px 30px;
+      text-align: center;
+    }
+
+    .free-entry .gift-icon {
+      font-size: 50px;
+    }
+
+    .free-entry h2 {
+      font-size: 38px;
+      font-weight: 900;
+      margin-top: 8px;
+    }
+
+    .free-entry p {
+      max-width: 650px;
+      margin: 12px auto;
+      color: #dddddd;
+    }
+
+    .free-entry small {
+      color: #aaaaaa;
+    }
+
+    /* =====================================================
+       VENUE
+    ===================================================== */
+
+    .venue {
+      padding: 40px;
+      background: #f7f7f7;
+      border-radius: 16px;
+      text-align: center;
+    }
+
+    .venue-icon {
+      font-size: 42px;
+    }
+
+    .venue h2 {
+      font-size: 28px;
+      margin-top: 10px;
+    }
+
+    .venue h3 {
+      color: #555555;
+      margin-top: 4px;
+    }
+
+    .venue p {
+      margin-top: 15px;
+    }
+
+    /* =====================================================
+       FINAL CTA
+    ===================================================== */
+
+    .final-cta {
+      margin-top: 70px;
+      padding: 65px 20px;
+      background: #111111;
+      color: #ffffff;
+      text-align: center;
+    }
+
+    .final-cta .icon {
+      font-size: 48px;
+    }
+
+    .final-cta h2 {
+      font-size: 38px;
+      font-weight: 900;
+      margin-top: 8px;
+    }
+
+    .final-cta p {
+      color: #cccccc;
+      margin-top: 10px;
+    }
+
+    /* =====================================================
+       FOOTER
+    ===================================================== */
+
+    footer {
+      padding: 25px;
+      background: #000000;
+      color: #aaaaaa;
+      text-align: center;
+    }
+
+    footer p {
+      font-size: 14px;
+    }
+
+    footer small {
+      display: block;
+      margin-top: 5px;
+    }
+
+    /* =====================================================
+       RESPONSIVE
+    ===================================================== */
+
+    @media (max-width: 900px) {
+      .hero {
+        padding: 50px 0;
+      }
+
+      .hero-grid {
+        grid-template-columns: 1fr;
+        gap: 35px;
+      }
+
+      .hero-content {
+        max-width: 700px;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      .event-info {
+        align-items: center;
+      }
+
+      .buttons {
+        justify-content: center;
+      }
+
+      .hero-title {
+        font-size: 58px;
+      }
+
+      .cards-grid,
+      .steps-grid,
+      .special-grid {
+        grid-template-columns:
+          repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        width: 92%;
+      }
+
+      .hero {
+        padding: 35px 0 50px;
+      }
+
+      .hero-grid {
+        gap: 28px;
+      }
+
+      .hero-title {
+        font-size: 43px;
+      }
+
+      .hero-subtitle {
+        font-size: 20px;
+      }
+
+      .hero-description {
+        font-size: 15px;
+      }
+
+      .buttons {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .btn {
+        width: 100%;
+      }
+
+      .event-cards {
+        margin-top: 20px;
+      }
+
+      .cards-grid,
+      .steps-grid,
+      .special-grid,
+      .guess-results {
+        grid-template-columns: 1fr;
+      }
+
+      .section {
+        padding: 50px 0;
+      }
+
+      .section-header h2 {
+        font-size: 30px;
+      }
+
+      .event-title h2 {
+        font-size: 28px;
+      }
+
+      .highlight,
+      .guess-box,
+      .venue {
+        padding: 28px 20px;
+      }
+
+      .free-entry h2,
+      .final-cta h2 {
+        font-size: 30px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- =====================================================
+       HERO
+  ===================================================== -->
+
+  <section class="hero">
+    <div class="container">
+
+      <div class="hero-grid">
+
+        <!-- THUMBNAIL -->
+
+        <div class="hero-image">
+          <img
+            src="/images/expo/2.png"
+            alt="Cricket Trivia Game"
+          />
+        </div>
+
+        <!-- HERO CONTENT -->
+
+        <div class="hero-content">
+
+          <span class="eyebrow">
+            WORKINDULGE PRESENTS
+          </span>
+
+          <h1 class="hero-title">
+            CRICKET<br />
+            TRIVIA GAME
+          </h1>
+
+          <h2 class="hero-subtitle">
+            Spin. Guess. Score. Win! 🏏
+          </h2>
+
+          <p class="hero-description">
+            Test your cricket knowledge, spin the wheel,
+            solve cricket trivia and compete for exciting
+            gifts & goodies!
+          </p>
+
+          <div class="event-info">
+
+            <p>
+              📅 20–22 August 2026
+            </p>
+
+            <p>
+              📍 Bharat Mandapam, Pragati Maidan, New Delhi
+            </p>
+
+            <p>
+              💰 Entry Fee: ₹100
+            </p>
+
+          </div>
+
+          <div class="buttons">
+
+            <!-- Replace URL -->
+
+            <a
+              href="YOUR_REGISTRATION_FORM_URL"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-primary"
+            >
+              🏏 REGISTER NOW — ₹100
+            </a>
+
+            <!-- Replace URL -->
+
+            <a
+              href="YOUR_FEEDBACK_FORM_URL"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-outline"
+            >
+              💬 GIVE FEEDBACK
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =====================================================
+       EVENT INFORMATION CARDS
+  ===================================================== -->
+
+  <section class="event-cards">
+    <div class="container">
+
+      <div class="cards-grid">
+
+        <div class="info-card">
+          <div class="info-icon">📅</div>
+
+          <h3>
+            20–22 August 2026
+          </h3>
+
+          <p>
+            Event Dates
+          </p>
+        </div>
+
+        <div class="info-card">
+          <div class="info-icon">📍</div>
+
+          <h3>
+            Bharat Mandapam
+          </h3>
+
+          <p>
+            Pragati Maidan, New Delhi
+          </p>
+        </div>
+
+        <div class="info-card">
+          <div class="info-icon">💰</div>
+
+          <h3>
+            ₹100 Entry
+          </h3>
+
+          <p>
+            Exciting gifts & goodies to win
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- =====================================================
+       EVENT TITLE
+  ===================================================== -->
+
+  <section class="event-title container">
+
+    <h2>
+      The 13th Sport India Expo 2026
+    </h2>
+
+    <p>
+      India International Sporting Goods Show
+    </p>
+
+  </section>
+
+
+  <!-- =====================================================
+       HIGHLIGHT
+  ===================================================== -->
+
+  <section class="container">
+
+    <div class="highlight">
+
+      <h2>
+        🏏 Think You Know Cricket?
+      </h2>
+
+      <p>
+        Spin the wheel, answer cricket trivia
+        and climb the leaderboard.
+        The highest score wins!
+      </p>
+
+      <p class="price">
+        Entry Fee: ₹100
+      </p>
+
+      <p class="gift">
+        🎁 Exciting gifts & goodies up for grabs!
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <!-- =====================================================
+       HOW TO PLAY
+  ===================================================== -->
+
+  <section class="section">
+
+    <div class="container">
+
+      <div class="section-header">
+
+        <h2>
+          How To Play
+        </h2>
+
+        <div class="section-line"></div>
+
+      </div>
+
+
+      <div class="steps-grid">
+
+        <div class="step-card">
+          <span class="step-number">
+            STEP 01
+          </span>
+
+          <h3>
+            Add Players
+          </h3>
+
+          <p>
+            Enter the player names on the start
+            screen and tap Start Game.
+          </p>
+        </div>
+
+
+        <div class="step-card">
+          <span class="step-number">
+            STEP 02
+          </span>
+
+          <h3>
+            Spin the Wheel
+          </h3>
+
+          <p>
+            Spin the cricket wheel and see whether
+            you land on Dot, 1, 2, 4, 6, Wide,
+            No Ball, Not Out or Wicket.
+          </p>
+        </div>
+
+
+        <div class="step-card">
+          <span class="step-number">
+            STEP 03
+          </span>
+
+          <h3>
+            Score = Question
+          </h3>
+
+          <p>
+            If you land on a scoring outcome such
+            as 1, 2, 4 or 6, a cricket trivia
+            question appears.
+          </p>
+        </div>
+
+
+        <div class="step-card">
+          <span class="step-number">
+            STEP 04
+          </span>
+
+          <h3>
+            Guess One Letter
+          </h3>
+
+          <p>
+            Type a single character that you think
+            appears in the answer and hit Guess.
+          </p>
+        </div>
+
+
+        <div class="step-card">
+          <span class="step-number">
+            STEP 05
+          </span>
+
+          <h3>
+            Get It Right
+          </h3>
+
+          <p>
+            Correct guess? The letter is revealed,
+            you earn the runs and spin again.
+          </p>
+        </div>
+
+
+        <div class="step-card">
+          <span class="step-number">
+            STEP 06
+          </span>
+
+          <h3>
+            Keep Playing
+          </h3>
+
+          <p>
+            Wrong guess means no runs and the turn
+            passes to the next player. Keep going
+            until the answer is completely revealed.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- =====================================================
+       SPECIAL OUTCOMES
+  ===================================================== -->
+
+  <section class="section special-section">
+
+    <div class="container">
+
+      <div class="section-header">
+
+        <h2>
+          Special Outcomes
+        </h2>
+
+        <div class="section-line"></div>
+
+      </div>
+
+
+      <div class="special-grid">
+
+        <div class="special-card">
+
+          <div class="special-icon">
+            🏏
+          </div>
+
+          <h3>
+            Wide / No Ball
+          </h3>
+
+          <p>
+            Get an automatic run and spin
+            the wheel again.
+          </p>
+
+        </div>
+
+
+        <div class="special-card">
+
+          <div class="special-icon">
+            🔄
+          </div>
+
+          <h3>
+            Not Out
+          </h3>
+
+          <p>
+            Enjoy a free re-spin without
+            losing your turn.
+          </p>
+
+        </div>
+
+
+        <div class="special-card">
+
+          <div class="special-icon">
+            ❌
+          </div>
+
+          <h3>
+            Wicket
+          </h3>
+
+          <p>
+            Your turn ends immediately.
+            No question or guess.
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- =====================================================
+       GUESS RULE
+  ===================================================== -->
+
+  <section class="section">
+
+    <div class="container">
+
+      <div class="guess-box">
+
+        <div class="guess-icon">
+          ❓
+        </div>
+
+        <h2>
+          One Letter. One Guess.
+        </h2>
+
+        <p>
+          When a scoring outcome appears,
+          a cricket trivia question will pop up.
+          Guess a single letter from the answer.
+        </p>
+
+
+        <div class="guess-results">
+
+          <div class="guess-result">
+
+            <div class="guess-icon">
+              ✅
+            </div>
+
+            <h3>
+              Correct Guess
+            </h3>
+
+            <p>
+              Reveal the letter, earn your runs
+              and spin again.
+            </p>
+
+          </div>
+
+
+          <div class="guess-result">
+
+            <div class="guess-icon">
+              ❌
+            </div>
+
+            <h3>
+              Wrong Guess
+            </h3>
+
+            <p>
+              No runs. Your turn passes
+              to the next player.
+            </p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- =====================================================
+       FREE ENTRY
+  ===================================================== -->
+
+  <section class="section">
+
+    <div class="container">
+
+      <div class="free-entry">
+
+        <div class="gift-icon">
+          🎁
+        </div>
+
+        <h2>
+          Want a FREE Entry?
+        </h2>
+
+        <p>
+          Follow the WorkIndulge channel and
+          tag us to get a free entry opportunity.
+        </p>
+
+        <small>
+          Regular entry: ₹100
+        </small>
+
+        <br /><br />
+
+        <a
+          href="YOUR_REGISTRATION_FORM_URL"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-primary"
+        >
+          GET YOUR ENTRY
+        </a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- =====================================================
+       VENUE
+  ===================================================== -->
+
+  <section class="section">
+
+    <div class="container">
+
+      <div class="section-header">
+
+        <h2>
+          Event Venue
+        </h2>
+
+        <div class="section-line"></div>
+
+      </div>
+
+
+      <div class="venue">
+
+        <div class="venue-icon">
+          📍
+        </div>
+
+        <h2>
+          Bharat Mandapam, Pragati Maidan
+        </h2>
+
+        <h3>
+          New Delhi
+        </h3>
+
+        <p>
+          <strong>
+            The 13th Sport India Expo 2026
+          </strong>
+        </p>
+
+        <p>
+          India International Sporting Goods Show
+        </p>
+
+        <p>
+          <strong>
+            20–22 August 2026
+          </strong>
+        </p>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- =====================================================
+       FINAL CTA
+  ===================================================== -->
+
+  <section class="final-cta">
+
+    <div class="container">
+
+      <div class="icon">
+        🏏
+      </div>
+
+      <h2>
+        Ready to Play?
+      </h2>
+
+      <p>
+        Bring your cricket knowledge.
+        Bring your luck.
+        <br />
+        Spin the wheel and chase the highest score!
+      </p>
+
+      <br />
+
+      <div class="buttons"
+           style="justify-content: center;">
+
+        <a
+          href="YOUR_REGISTRATION_FORM_URL"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-primary"
+        >
+          REGISTER NOW
+        </a>
+
+        <a
+          href="YOUR_FEEDBACK_FORM_URL"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-outline"
+        >
+          FEEDBACK
+        </a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- =====================================================
+       FOOTER
+  ===================================================== -->
+
+  <footer>
+
+    <p>
+      🏏 Cricket Trivia Game • WorkIndulge
+    </p>
+
+    <small>
+      The 13th Sport India Expo 2026 •
+      Bharat Mandapam, New Delhi
+    </small>
+
+  </footer>
+
+</body>
+</html>
+
